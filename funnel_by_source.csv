@@ -1,0 +1,6 @@
+Traffic_Source,Visited,Product_Viewed,Added_to_Cart,Purchased,Conv_Rate
+Email,1225,805,362,213,17.39
+Direct,801,519,247,138,17.23
+Paid,2498,1628,715,408,16.33
+Organic,3496,2274,1025,561,16.05
+Social,1980,1284,570,309,15.61

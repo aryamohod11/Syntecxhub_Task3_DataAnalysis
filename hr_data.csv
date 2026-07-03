@@ -1,0 +1,1471 @@
+EmployeeID,Age,Gender,Department,JobRole,Education,MaritalStatus,MonthlyIncome,YearsAtCompany,JobSatisfaction,WorkLifeBalance,OverTime,DistanceFromHome,Attrition
+1,32,Male,Research & Development,Research Scientist,Doctor,Single,5914,10,3,1,No,24,No
+2,55,Female,Sales,Sales Representative,Master,Single,5914,32,4,2,No,12,Yes
+3,59,Female,Research & Development,Manager,Master,Divorced,10164,2,1,3,No,9,Yes
+4,31,Female,Research & Development,Senior Scientist,College,Single,5935,25,1,2,No,15,No
+5,52,Female,Research & Development,Senior Scientist,Below College,Married,3337,5,2,2,No,29,No
+6,27,Female,Research & Development,Laboratory Technician,Master,Married,9229,30,4,3,Yes,23,No
+7,33,Male,Human Resources,HR Executive,College,Divorced,5348,28,3,1,Yes,7,No
+8,41,Male,Research & Development,Senior Scientist,Bachelor,Divorced,9142,16,4,3,No,27,Yes
+9,45,Male,Research & Development,Research Scientist,Below College,Married,5885,23,1,3,No,22,No
+10,31,Male,Research & Development,Research Scientist,Below College,Single,4575,25,3,3,Yes,27,No
+11,30,Male,Research & Development,Laboratory Technician,Below College,Single,8758,22,3,1,No,29,Yes
+12,39,Female,Sales,Manager,College,Married,6547,5,4,2,No,26,Yes
+13,50,Male,Research & Development,Laboratory Technician,Below College,Divorced,9684,2,3,2,No,9,No
+14,41,Male,Research & Development,Laboratory Technician,Bachelor,Married,5770,31,4,1,No,17,No
+15,19,Male,Sales,Manager,Below College,Single,6650,22,1,1,No,2,No
+16,49,Male,Research & Development,Laboratory Technician,Master,Divorced,12658,10,4,3,Yes,6,No
+17,39,Male,Research & Development,Laboratory Technician,Below College,Single,4023,28,3,3,Yes,26,No
+18,58,Male,Sales,Manager,College,Single,5084,10,4,1,Yes,23,No
+19,33,Female,Research & Development,Manager,Below College,Single,5688,11,1,1,No,23,Yes
+20,33,Male,Research & Development,Senior Scientist,Master,Married,5985,32,4,3,No,4,No
+21,42,Male,Research & Development,Manager,Below College,Single,4036,1,2,3,No,9,Yes
+22,38,Female,Sales,Sales Representative,Master,Divorced,3765,2,1,1,No,27,No
+23,47,Female,Sales,Sales Representative,Doctor,Divorced,7191,33,1,2,No,15,No
+24,36,Female,Sales,Sales Executive,Bachelor,Single,8567,16,4,2,No,21,No
+25,41,Male,Research & Development,Research Scientist,Below College,Married,5368,20,4,3,Yes,3,Yes
+26,20,Female,Research & Development,Manager,College,Divorced,8442,21,3,2,Yes,10,No
+27,26,Male,Research & Development,Research Scientist,Doctor,Married,7787,24,4,1,Yes,7,No
+28,25,Female,Research & Development,Research Scientist,Master,Divorced,7784,22,3,2,Yes,23,No
+29,39,Female,Research & Development,Laboratory Technician,College,Married,7386,32,4,1,Yes,12,No
+30,49,Female,Sales,Sales Executive,Bachelor,Divorced,2000,15,1,2,No,19,No
+31,43,Male,Sales,Sales Representative,College,Single,6160,11,1,1,Yes,1,Yes
+32,42,Female,Sales,Sales Representative,Doctor,Single,4516,0,4,1,No,5,No
+33,43,Female,Research & Development,Senior Scientist,Bachelor,Single,5651,27,1,3,Yes,14,No
+34,43,Female,Sales,Sales Representative,Doctor,Divorced,4461,32,2,2,No,26,No
+35,48,Female,Research & Development,Laboratory Technician,College,Divorced,9407,4,1,3,No,28,No
+36,29,Female,Research & Development,Senior Scientist,Bachelor,Single,6525,32,1,3,No,12,No
+37,46,Male,Human Resources,Manager,Master,Divorced,5453,34,3,1,No,29,No
+38,58,Male,Sales,Sales Representative,Master,Married,6221,10,1,1,No,25,No
+39,52,Male,Research & Development,Senior Scientist,Bachelor,Married,7730,22,2,1,Yes,23,No
+40,47,Male,Research & Development,Research Scientist,Below College,Married,2681,19,4,1,No,27,Yes
+41,58,Male,Sales,Sales Executive,Master,Single,7310,18,2,3,Yes,5,Yes
+42,38,Female,Research & Development,Manager,Doctor,Divorced,6174,15,1,3,Yes,10,No
+43,22,Male,Human Resources,Manager,Doctor,Divorced,8722,16,1,2,Yes,13,Yes
+44,19,Male,Research & Development,Manager,Doctor,Single,7740,18,4,1,No,20,No
+45,21,Female,Research & Development,Research Scientist,Master,Divorced,2000,26,2,2,No,3,Yes
+46,37,Female,Research & Development,Laboratory Technician,Doctor,Divorced,5621,0,3,1,Yes,25,Yes
+47,55,Male,Sales,Sales Executive,College,Single,6674,10,4,1,Yes,19,No
+48,31,Male,Research & Development,Research Scientist,Below College,Single,8958,2,4,3,Yes,12,No
+49,29,Female,Sales,Sales Representative,Master,Single,4400,25,4,2,Yes,28,Yes
+50,44,Female,Human Resources,Manager,Below College,Single,5001,32,1,1,No,29,Yes
+51,35,Male,Sales,Sales Representative,Doctor,Divorced,6855,4,3,1,No,18,No
+52,43,Male,Sales,Sales Executive,Below College,Married,9092,26,1,1,Yes,9,Yes
+53,23,Female,Sales,Manager,Below College,Single,10290,9,2,3,Yes,14,Yes
+54,30,Female,Sales,Sales Executive,Below College,Single,7281,31,2,3,Yes,26,No
+55,29,Male,Research & Development,Manager,Master,Single,5091,22,3,1,No,2,No
+56,51,Female,Research & Development,Senior Scientist,College,Married,12848,17,2,3,No,2,No
+57,32,Female,Research & Development,Senior Scientist,College,Divorced,8921,9,4,1,No,28,Yes
+58,19,Male,Sales,Sales Representative,Bachelor,Divorced,8114,10,3,3,Yes,23,No
+59,25,Female,Research & Development,Senior Scientist,Master,Single,6343,28,4,2,No,19,Yes
+60,39,Male,Sales,Sales Representative,Below College,Single,8887,11,2,2,No,14,No
+61,39,Male,Research & Development,Laboratory Technician,Bachelor,Divorced,6945,21,2,2,No,14,No
+62,24,Male,Research & Development,Laboratory Technician,Bachelor,Divorced,6589,17,2,2,No,15,Yes
+63,27,Male,Research & Development,Senior Scientist,Below College,Single,4883,24,1,1,No,4,No
+64,53,Male,Research & Development,Laboratory Technician,College,Divorced,3796,7,4,1,No,10,No
+65,51,Male,Research & Development,Laboratory Technician,Bachelor,Single,7741,21,1,2,No,16,Yes
+66,47,Male,Sales,Sales Representative,Below College,Divorced,6014,2,3,3,No,4,No
+67,45,Male,Research & Development,Senior Scientist,Master,Divorced,5058,1,3,3,No,19,No
+68,21,Male,Sales,Sales Representative,Master,Single,8388,19,1,3,No,14,No
+69,53,Male,Research & Development,Manager,Bachelor,Divorced,6128,9,1,3,No,2,No
+70,54,Male,Research & Development,Research Scientist,Below College,Single,5481,10,3,2,No,17,No
+71,31,Male,Research & Development,Laboratory Technician,Bachelor,Single,5228,0,4,2,Yes,29,Yes
+72,47,Male,Research & Development,Laboratory Technician,Doctor,Single,3395,4,3,3,No,4,No
+73,57,Female,Research & Development,Laboratory Technician,Bachelor,Single,9128,14,1,1,No,15,No
+74,57,Male,Research & Development,Senior Scientist,Bachelor,Married,4391,5,3,3,No,10,No
+75,50,Female,Research & Development,Research Scientist,Bachelor,Single,5351,26,3,1,Yes,22,No
+76,50,Female,Research & Development,Laboratory Technician,Doctor,Divorced,4375,23,4,3,No,5,No
+77,19,Male,Research & Development,Research Scientist,Bachelor,Divorced,10765,26,1,3,No,8,No
+78,43,Female,Research & Development,Manager,Bachelor,Married,7792,12,4,2,Yes,1,Yes
+79,53,Female,Research & Development,Senior Scientist,Master,Single,7042,27,3,2,Yes,19,No
+80,28,Male,Research & Development,Laboratory Technician,Below College,Married,7605,20,2,2,Yes,23,No
+81,57,Male,Research & Development,Manager,Doctor,Divorced,6104,25,1,3,No,25,No
+82,35,Male,Research & Development,Manager,College,Divorced,5432,16,4,3,Yes,27,Yes
+83,23,Male,Sales,Manager,Below College,Single,4704,25,4,2,No,7,No
+84,39,Female,Research & Development,Senior Scientist,Doctor,Single,8764,6,1,1,No,19,Yes
+85,47,Male,Research & Development,Senior Scientist,Below College,Single,9215,18,2,1,No,15,No
+86,47,Female,Research & Development,Research Scientist,Bachelor,Divorced,5513,3,1,1,Yes,3,Yes
+87,51,Female,Sales,Sales Representative,Below College,Divorced,5857,2,4,3,No,29,No
+88,20,Male,Research & Development,Research Scientist,Below College,Divorced,9060,7,2,3,Yes,14,No
+89,21,Female,Research & Development,Senior Scientist,Doctor,Married,4856,17,3,2,Yes,23,No
+90,53,Male,Sales,Manager,Master,Married,4156,1,1,3,No,11,No
+91,29,Female,Research & Development,Manager,Doctor,Single,9616,33,1,3,No,22,No
+92,40,Female,Sales,Sales Representative,Below College,Married,2000,16,2,1,No,13,No
+93,21,Female,Sales,Sales Representative,College,Single,5150,10,2,2,No,10,No
+94,54,Male,Sales,Sales Executive,College,Divorced,4554,21,1,3,No,6,No
+95,24,Female,Sales,Sales Executive,Doctor,Single,2000,1,4,2,No,19,Yes
+96,38,Male,Research & Development,Research Scientist,Bachelor,Single,3301,34,2,2,No,24,No
+97,53,Male,Research & Development,Research Scientist,Master,Divorced,5060,33,1,2,No,9,Yes
+98,57,Female,Research & Development,Research Scientist,Below College,Divorced,6805,34,3,2,No,12,No
+99,54,Female,Sales,Manager,Bachelor,Divorced,7043,11,2,3,No,21,No
+100,23,Female,Research & Development,Senior Scientist,Below College,Married,11364,24,4,3,No,9,No
+101,33,Male,Sales,Sales Representative,Below College,Divorced,3372,6,2,3,No,9,Yes
+102,40,Male,Sales,Manager,College,Divorced,13014,29,4,3,No,27,No
+103,41,Male,Sales,Manager,Master,Single,7055,25,3,3,Yes,15,No
+104,42,Male,Research & Development,Laboratory Technician,College,Single,5303,15,1,2,No,2,Yes
+105,30,Male,Research & Development,Laboratory Technician,College,Divorced,6439,15,4,3,No,25,No
+106,47,Male,Research & Development,Research Scientist,Bachelor,Single,5111,13,4,2,No,18,No
+107,32,Male,Sales,Sales Executive,Below College,Single,3823,5,3,3,No,11,No
+108,21,Male,Human Resources,HR Executive,Master,Single,8206,9,3,2,No,9,No
+109,22,Male,Research & Development,Laboratory Technician,Below College,Single,5566,17,2,1,Yes,3,Yes
+110,42,Male,Sales,Manager,Master,Married,3566,33,3,1,No,27,Yes
+111,51,Female,Research & Development,Research Scientist,College,Single,7766,10,3,2,No,15,Yes
+112,43,Female,Research & Development,Senior Scientist,Doctor,Single,5998,27,1,1,No,8,No
+113,20,Female,Research & Development,Manager,College,Divorced,7523,23,3,1,Yes,16,No
+114,59,Female,Research & Development,Research Scientist,Bachelor,Married,8094,6,1,3,No,25,Yes
+115,49,Male,Research & Development,Laboratory Technician,Doctor,Married,10418,11,3,2,No,14,No
+116,48,Female,Research & Development,Senior Scientist,Master,Single,7357,34,4,2,No,7,No
+117,45,Female,Human Resources,HR Executive,Doctor,Single,5111,3,3,1,No,17,No
+118,35,Female,Research & Development,Laboratory Technician,Doctor,Divorced,7729,34,4,1,No,29,Yes
+119,49,Male,Research & Development,Manager,Bachelor,Married,8195,34,1,1,Yes,23,No
+120,31,Female,Sales,Sales Representative,Bachelor,Divorced,6379,2,1,2,Yes,28,No
+121,37,Female,Research & Development,Research Scientist,Bachelor,Single,2000,14,2,1,Yes,17,No
+122,33,Male,Research & Development,Manager,Master,Married,5083,24,1,1,No,15,No
+123,20,Male,Research & Development,Manager,Master,Single,6095,29,2,3,Yes,12,Yes
+124,39,Female,Research & Development,Senior Scientist,Doctor,Single,3146,1,4,3,No,17,Yes
+125,48,Female,Sales,Sales Representative,Bachelor,Single,7144,23,1,1,Yes,14,Yes
+126,45,Female,Research & Development,Laboratory Technician,Below College,Married,7672,31,2,1,No,1,No
+127,43,Female,Sales,Sales Executive,College,Married,10994,14,2,2,Yes,17,No
+128,23,Male,Sales,Manager,Below College,Divorced,8102,30,4,1,No,8,No
+129,24,Male,Research & Development,Senior Scientist,Master,Married,6005,2,3,1,Yes,14,Yes
+130,29,Male,Sales,Manager,Below College,Single,9793,18,3,2,No,8,No
+131,35,Female,Research & Development,Senior Scientist,College,Divorced,6595,9,3,3,Yes,22,Yes
+132,47,Male,Sales,Sales Executive,College,Single,6800,23,4,1,No,12,No
+133,49,Male,Research & Development,Laboratory Technician,Master,Married,6236,1,3,2,No,7,No
+134,29,Male,Research & Development,Laboratory Technician,Doctor,Married,10952,20,3,1,Yes,8,No
+135,31,Female,Research & Development,Laboratory Technician,College,Divorced,4740,13,4,3,No,2,Yes
+136,45,Female,Research & Development,Research Scientist,Bachelor,Single,6144,4,3,1,No,24,No
+137,28,Female,Sales,Manager,Bachelor,Married,6692,9,4,2,Yes,5,Yes
+138,37,Female,Research & Development,Research Scientist,Below College,Divorced,3292,11,1,1,No,12,No
+139,37,Female,Research & Development,Laboratory Technician,College,Single,8319,28,1,3,Yes,5,No
+140,31,Female,Research & Development,Research Scientist,College,Single,6629,23,3,3,Yes,25,No
+141,40,Female,Research & Development,Manager,Master,Divorced,4153,7,2,1,Yes,8,Yes
+142,39,Male,Sales,Manager,College,Single,8110,25,3,2,Yes,18,No
+143,29,Male,Research & Development,Senior Scientist,Below College,Married,6951,30,4,2,No,5,No
+144,23,Male,Research & Development,Laboratory Technician,Below College,Single,8379,24,4,1,No,13,No
+145,55,Female,Sales,Sales Representative,Master,Married,8753,12,1,3,No,11,No
+146,42,Male,Sales,Manager,Below College,Married,6152,6,3,1,No,29,No
+147,52,Female,Sales,Sales Executive,College,Divorced,10605,9,2,2,No,21,No
+148,45,Male,Research & Development,Laboratory Technician,Doctor,Married,9024,24,4,1,No,5,No
+149,40,Female,Research & Development,Manager,College,Divorced,9796,15,3,1,No,25,No
+150,38,Male,Research & Development,Senior Scientist,Bachelor,Married,6717,13,1,1,No,27,No
+151,33,Female,Research & Development,Senior Scientist,Master,Married,4025,3,2,1,No,7,No
+152,48,Male,Sales,Sales Executive,Below College,Married,8851,19,4,2,No,1,No
+153,30,Male,Research & Development,Manager,Doctor,Married,9813,14,2,2,No,10,No
+154,44,Male,Research & Development,Laboratory Technician,Master,Married,7555,23,3,3,No,18,No
+155,22,Male,Sales,Manager,Below College,Divorced,6299,20,1,2,Yes,15,Yes
+156,27,Male,Sales,Manager,Doctor,Single,9233,24,2,3,No,18,No
+157,58,Male,Research & Development,Manager,Bachelor,Divorced,9106,3,2,2,No,7,No
+158,50,Female,Sales,Sales Executive,Bachelor,Single,5200,7,1,3,No,7,Yes
+159,22,Female,Research & Development,Laboratory Technician,Bachelor,Single,8078,2,2,1,No,22,No
+160,55,Male,Human Resources,Manager,Bachelor,Married,2608,22,2,2,No,4,No
+161,33,Female,Research & Development,Manager,Below College,Divorced,4661,11,4,3,No,13,Yes
+162,22,Female,Human Resources,Manager,Master,Single,9590,29,1,2,Yes,8,No
+163,51,Male,Sales,Sales Representative,Master,Single,4794,20,2,3,Yes,1,Yes
+164,43,Female,Research & Development,Manager,College,Divorced,3563,5,3,2,No,22,No
+165,59,Female,Research & Development,Senior Scientist,College,Single,8797,29,2,2,Yes,7,Yes
+166,52,Female,Sales,Sales Executive,Bachelor,Married,5774,34,2,2,No,10,No
+167,50,Female,Sales,Sales Representative,Below College,Married,7217,5,1,1,No,8,No
+168,21,Male,Research & Development,Manager,Master,Single,6210,30,2,2,Yes,6,Yes
+169,40,Male,Sales,Sales Representative,Bachelor,Single,5966,1,2,3,No,24,No
+170,52,Male,Research & Development,Research Scientist,Below College,Married,10226,6,4,1,No,7,No
+171,53,Female,Sales,Sales Executive,College,Divorced,5418,34,3,3,No,14,No
+172,19,Female,Research & Development,Research Scientist,Bachelor,Single,9817,14,1,2,No,24,No
+173,43,Female,Sales,Sales Executive,Doctor,Single,6194,10,3,1,No,23,Yes
+174,35,Female,Sales,Sales Representative,Bachelor,Single,5412,28,4,1,No,21,No
+175,26,Male,Sales,Sales Executive,Below College,Married,2502,9,2,2,Yes,8,No
+176,25,Male,Research & Development,Laboratory Technician,Below College,Divorced,5483,16,4,3,No,19,Yes
+177,54,Female,Human Resources,HR Executive,Doctor,Single,8482,23,3,1,No,21,No
+178,28,Female,Research & Development,Senior Scientist,Bachelor,Divorced,9569,27,3,3,No,5,No
+179,27,Female,Research & Development,Senior Scientist,Master,Single,8990,24,1,2,No,3,Yes
+180,58,Male,Research & Development,Laboratory Technician,Below College,Married,4608,9,1,3,No,22,No
+181,49,Female,Research & Development,Senior Scientist,Master,Married,5587,17,3,1,No,27,No
+182,39,Female,Research & Development,Laboratory Technician,Master,Single,4401,31,3,2,Yes,21,Yes
+183,56,Male,Research & Development,Manager,Master,Single,11822,20,2,2,No,7,Yes
+184,39,Male,Sales,Sales Representative,Below College,Married,8221,27,1,1,Yes,29,No
+185,48,Male,Sales,Sales Representative,Bachelor,Divorced,7736,32,4,3,No,19,No
+186,42,Female,Sales,Manager,Doctor,Divorced,8309,7,2,2,Yes,1,No
+187,57,Male,Research & Development,Senior Scientist,College,Married,7151,26,3,2,No,13,No
+188,43,Female,Research & Development,Laboratory Technician,Master,Single,2998,13,2,1,No,25,No
+189,23,Female,Research & Development,Manager,Bachelor,Single,5781,3,4,2,No,3,No
+190,57,Male,Research & Development,Laboratory Technician,Doctor,Married,4146,3,4,1,No,17,No
+191,20,Female,Research & Development,Laboratory Technician,Doctor,Married,11153,23,2,2,No,28,No
+192,36,Female,Research & Development,Laboratory Technician,Doctor,Married,11216,30,4,3,No,4,No
+193,35,Male,Research & Development,Research Scientist,Master,Single,10283,10,1,2,No,17,No
+194,44,Male,Research & Development,Manager,Master,Divorced,8077,8,2,1,Yes,29,No
+195,47,Female,Sales,Manager,Doctor,Married,2000,18,2,3,No,19,No
+196,38,Female,Research & Development,Senior Scientist,Doctor,Married,6925,25,4,2,No,18,No
+197,23,Male,Research & Development,Senior Scientist,Master,Single,8415,20,2,2,No,28,No
+198,27,Female,Sales,Sales Representative,College,Single,9567,12,2,1,No,24,Yes
+199,38,Female,Research & Development,Manager,College,Single,6078,14,2,3,No,15,No
+200,31,Male,Research & Development,Laboratory Technician,Doctor,Married,6777,20,2,1,No,26,Yes
+201,42,Male,Research & Development,Manager,Master,Single,4981,6,2,3,No,24,Yes
+202,58,Male,Research & Development,Laboratory Technician,Below College,Single,10573,33,2,2,No,1,No
+203,19,Female,Sales,Sales Representative,College,Divorced,8047,23,3,2,No,10,No
+204,49,Male,Research & Development,Research Scientist,Doctor,Married,11643,3,2,2,Yes,8,No
+205,31,Male,Research & Development,Senior Scientist,Doctor,Single,10456,1,1,2,No,12,No
+206,56,Female,Research & Development,Laboratory Technician,Below College,Divorced,7449,18,1,3,Yes,12,No
+207,53,Male,Sales,Sales Executive,Doctor,Divorced,3645,17,2,2,No,7,No
+208,57,Female,Research & Development,Manager,Below College,Single,7838,7,1,3,No,6,No
+209,29,Male,Research & Development,Research Scientist,Below College,Divorced,3855,29,1,2,Yes,6,No
+210,44,Male,Research & Development,Senior Scientist,Below College,Divorced,6397,32,4,1,No,26,Yes
+211,45,Male,Research & Development,Research Scientist,Below College,Married,11019,10,2,3,No,9,No
+212,29,Female,Research & Development,Manager,College,Single,7376,27,4,2,Yes,21,No
+213,35,Female,Research & Development,Manager,Bachelor,Single,11359,16,1,3,No,27,No
+214,19,Male,Sales,Sales Representative,Master,Divorced,2442,5,1,1,No,23,Yes
+215,42,Male,Research & Development,Laboratory Technician,Doctor,Divorced,5242,13,4,1,No,3,Yes
+216,50,Female,Research & Development,Manager,Bachelor,Divorced,10109,22,3,3,No,14,No
+217,52,Male,Research & Development,Senior Scientist,Bachelor,Single,5945,18,2,3,No,19,No
+218,31,Male,Sales,Manager,Below College,Divorced,7554,18,3,2,Yes,21,No
+219,26,Female,Sales,Sales Representative,Below College,Single,8363,3,3,2,No,14,No
+220,33,Male,Human Resources,HR Executive,Below College,Married,4285,11,3,3,No,18,No
+221,37,Male,Research & Development,Senior Scientist,Bachelor,Single,6953,8,4,3,No,24,No
+222,57,Female,Sales,Manager,Master,Married,10772,14,1,3,No,29,Yes
+223,37,Male,Research & Development,Laboratory Technician,Doctor,Divorced,6688,27,4,2,No,3,No
+224,44,Male,Human Resources,Manager,Below College,Single,2495,7,3,2,Yes,25,Yes
+225,43,Male,Sales,Sales Representative,Bachelor,Married,2984,34,4,1,No,17,No
+226,25,Male,Sales,Sales Representative,Master,Single,6292,25,3,1,No,10,No
+227,41,Male,Research & Development,Research Scientist,Below College,Single,6830,12,4,3,Yes,11,Yes
+228,57,Female,Sales,Sales Executive,Bachelor,Single,9826,11,1,1,No,7,No
+229,44,Female,Research & Development,Research Scientist,Doctor,Divorced,6862,17,2,2,No,1,No
+230,45,Female,Research & Development,Manager,Master,Single,4963,32,4,2,No,9,No
+231,27,Female,Research & Development,Research Scientist,Bachelor,Divorced,6638,8,1,3,No,20,No
+232,55,Male,Research & Development,Research Scientist,College,Single,12867,11,3,3,No,13,No
+233,48,Male,Research & Development,Laboratory Technician,Below College,Married,7677,17,4,3,Yes,9,No
+234,51,Female,Research & Development,Senior Scientist,Bachelor,Divorced,8614,27,4,3,No,23,No
+235,53,Female,Research & Development,Laboratory Technician,Below College,Divorced,3332,6,4,1,No,1,No
+236,35,Female,Research & Development,Laboratory Technician,Bachelor,Divorced,6610,30,3,2,No,17,No
+237,29,Female,Research & Development,Laboratory Technician,Below College,Divorced,4475,4,2,3,No,13,No
+238,44,Female,Sales,Sales Representative,Bachelor,Married,7560,5,3,1,No,10,No
+239,54,Male,Sales,Sales Representative,Master,Married,2650,21,4,1,Yes,17,No
+240,40,Male,Sales,Sales Executive,Bachelor,Married,2784,33,4,1,Yes,17,No
+241,28,Male,Research & Development,Research Scientist,Master,Divorced,7233,34,1,3,No,4,No
+242,35,Female,Human Resources,Manager,Below College,Married,3542,18,1,3,No,28,No
+243,36,Male,Research & Development,Laboratory Technician,Bachelor,Single,2278,11,2,1,No,7,Yes
+244,58,Female,Research & Development,Senior Scientist,College,Married,9355,16,3,3,No,12,No
+245,53,Female,Research & Development,Manager,Bachelor,Single,2000,26,3,1,No,17,No
+246,45,Male,Human Resources,Manager,Master,Divorced,11340,34,4,3,Yes,20,Yes
+247,49,Female,Research & Development,Research Scientist,Bachelor,Divorced,6161,12,3,2,Yes,23,Yes
+248,39,Male,Research & Development,Research Scientist,Bachelor,Married,9008,9,2,2,No,12,No
+249,47,Male,Sales,Sales Representative,Bachelor,Divorced,6190,0,3,1,Yes,8,No
+250,18,Female,Research & Development,Manager,Bachelor,Married,5608,22,1,2,Yes,4,No
+251,25,Male,Sales,Manager,Master,Single,6575,15,2,1,No,10,Yes
+252,19,Female,Research & Development,Laboratory Technician,Doctor,Divorced,8021,30,4,2,No,8,No
+253,44,Female,Sales,Manager,Doctor,Divorced,2648,29,1,1,No,21,Yes
+254,34,Male,Research & Development,Manager,College,Married,6168,7,2,2,Yes,28,Yes
+255,39,Female,Research & Development,Manager,Master,Single,7065,11,3,3,No,18,No
+256,29,Male,Research & Development,Research Scientist,Below College,Divorced,7568,28,2,2,Yes,6,No
+257,58,Female,Research & Development,Senior Scientist,Doctor,Single,6076,8,3,2,No,4,No
+258,23,Female,Research & Development,Manager,Master,Divorced,6873,16,2,3,No,1,No
+259,27,Male,Research & Development,Manager,Doctor,Single,6078,23,4,3,No,15,No
+260,36,Female,Sales,Manager,Doctor,Married,6998,16,1,2,No,28,No
+261,35,Female,Research & Development,Senior Scientist,Bachelor,Single,9587,30,2,1,No,11,No
+262,40,Male,Research & Development,Senior Scientist,Doctor,Married,5699,8,4,3,Yes,3,No
+263,45,Female,Research & Development,Research Scientist,Below College,Single,4303,9,1,3,No,14,No
+264,39,Male,Research & Development,Laboratory Technician,Master,Married,2968,9,3,1,No,6,No
+265,46,Male,Research & Development,Senior Scientist,Below College,Married,11544,19,3,3,Yes,28,No
+266,59,Male,Sales,Sales Executive,Below College,Married,7040,5,3,1,No,23,No
+267,29,Female,Research & Development,Laboratory Technician,Bachelor,Single,6911,8,4,3,No,23,No
+268,21,Female,Research & Development,Laboratory Technician,Bachelor,Single,6627,28,2,2,No,15,Yes
+269,43,Female,Research & Development,Senior Scientist,Below College,Divorced,7842,27,2,1,Yes,26,Yes
+270,42,Female,Sales,Sales Representative,Bachelor,Single,6629,18,3,1,No,8,No
+271,18,Male,Sales,Manager,Master,Married,5842,30,1,2,Yes,17,No
+272,28,Female,Research & Development,Research Scientist,Below College,Married,2000,26,2,3,No,26,No
+273,39,Female,Sales,Sales Representative,College,Married,2000,29,3,2,No,8,No
+274,34,Female,Sales,Sales Executive,Bachelor,Single,10333,10,3,2,Yes,4,No
+275,43,Female,Human Resources,Manager,Below College,Divorced,8558,22,3,2,No,26,Yes
+276,51,Male,Research & Development,Research Scientist,Bachelor,Divorced,6298,15,2,2,No,13,No
+277,47,Male,Research & Development,Senior Scientist,Bachelor,Divorced,7905,8,1,2,No,28,No
+278,38,Female,Sales,Manager,College,Married,7543,7,4,3,Yes,27,Yes
+279,27,Female,Research & Development,Research Scientist,Below College,Married,8360,0,4,1,No,17,No
+280,52,Male,Sales,Sales Representative,Below College,Divorced,6046,26,2,2,No,13,No
+281,35,Female,Research & Development,Manager,Below College,Married,7717,4,2,1,Yes,2,No
+282,28,Female,Sales,Sales Executive,Bachelor,Single,8143,34,4,2,No,13,No
+283,43,Female,Research & Development,Manager,Doctor,Single,8154,19,3,2,Yes,29,Yes
+284,45,Female,Sales,Manager,Below College,Divorced,7847,3,2,3,No,1,No
+285,53,Female,Research & Development,Senior Scientist,Doctor,Married,6657,22,1,3,No,21,No
+286,23,Male,Sales,Sales Executive,Below College,Married,9775,6,3,2,Yes,20,Yes
+287,21,Female,Sales,Manager,Master,Married,8529,4,1,3,No,5,No
+288,53,Male,Research & Development,Laboratory Technician,Doctor,Married,9844,20,4,1,No,23,No
+289,51,Male,Research & Development,Manager,Below College,Single,8126,24,3,1,No,17,No
+290,34,Male,Research & Development,Senior Scientist,College,Divorced,2742,31,3,3,No,15,No
+291,34,Female,Research & Development,Laboratory Technician,Bachelor,Single,5104,5,4,1,No,17,No
+292,18,Male,Research & Development,Manager,Bachelor,Married,3749,14,4,2,Yes,11,No
+293,50,Female,Sales,Sales Representative,College,Single,6829,28,3,2,No,17,No
+294,44,Female,Research & Development,Research Scientist,Doctor,Married,4252,34,3,3,No,25,Yes
+295,19,Female,Research & Development,Manager,Bachelor,Single,4876,2,2,3,No,18,No
+296,29,Female,Sales,Sales Executive,Doctor,Divorced,8430,4,3,1,No,5,No
+297,50,Female,Research & Development,Laboratory Technician,College,Single,3708,1,2,3,No,1,No
+298,40,Female,Research & Development,Manager,Bachelor,Married,9589,28,4,1,No,10,No
+299,46,Female,Sales,Sales Representative,Below College,Married,10283,25,4,1,Yes,17,No
+300,51,Male,Sales,Sales Representative,Bachelor,Married,4966,23,2,2,No,11,No
+301,55,Female,Sales,Manager,Bachelor,Single,6993,19,3,3,No,21,Yes
+302,44,Female,Human Resources,HR Executive,Below College,Single,4468,31,4,2,No,4,No
+303,36,Female,Sales,Sales Executive,Below College,Married,3259,20,3,2,No,25,Yes
+304,21,Male,Research & Development,Research Scientist,Below College,Single,7767,18,1,2,No,13,No
+305,55,Male,Research & Development,Laboratory Technician,College,Married,4414,20,3,1,No,15,No
+306,43,Male,Research & Development,Manager,Master,Single,9428,19,1,3,Yes,23,Yes
+307,50,Male,Research & Development,Senior Scientist,Doctor,Divorced,10762,32,3,2,No,23,No
+308,53,Male,Research & Development,Manager,Doctor,Married,5747,2,2,2,No,24,No
+309,59,Male,Sales,Sales Representative,Below College,Single,9182,27,1,2,No,18,No
+310,55,Female,Research & Development,Research Scientist,Master,Married,12409,14,4,2,No,22,No
+311,21,Female,Research & Development,Research Scientist,Doctor,Divorced,8482,14,1,3,No,6,No
+312,38,Female,Sales,Sales Representative,Doctor,Single,6458,9,4,1,No,3,No
+313,21,Male,Research & Development,Manager,Below College,Divorced,13872,20,1,3,Yes,24,No
+314,49,Male,Research & Development,Senior Scientist,Master,Married,9611,15,1,1,Yes,9,Yes
+315,39,Male,Research & Development,Manager,Doctor,Married,5689,15,3,2,No,22,No
+316,30,Female,Research & Development,Manager,Master,Divorced,8507,22,1,1,No,21,No
+317,47,Female,Research & Development,Laboratory Technician,Below College,Married,5797,9,3,3,Yes,9,Yes
+318,36,Female,Research & Development,Manager,Master,Divorced,7562,8,3,1,No,19,No
+319,18,Male,Research & Development,Laboratory Technician,College,Married,9038,33,1,3,Yes,17,No
+320,41,Female,Research & Development,Manager,Below College,Divorced,5896,12,1,2,No,7,No
+321,34,Male,Human Resources,HR Executive,Below College,Divorced,13051,31,2,1,No,9,No
+322,39,Female,Research & Development,Research Scientist,Below College,Divorced,3720,6,2,1,Yes,2,Yes
+323,47,Male,Research & Development,Manager,College,Divorced,4257,7,2,2,No,25,No
+324,35,Female,Research & Development,Senior Scientist,Doctor,Single,4817,14,4,1,No,29,No
+325,57,Male,Sales,Sales Representative,Master,Divorced,5368,30,3,3,No,2,No
+326,48,Female,Research & Development,Senior Scientist,College,Single,6175,14,4,1,No,9,No
+327,56,Female,Research & Development,Research Scientist,College,Single,4497,27,1,3,No,29,Yes
+328,20,Male,Sales,Manager,College,Married,10266,21,2,2,No,29,No
+329,57,Male,Sales,Manager,Bachelor,Married,8626,10,3,1,No,18,No
+330,49,Male,Research & Development,Laboratory Technician,Below College,Divorced,6108,2,2,3,No,1,No
+331,30,Male,Research & Development,Research Scientist,Master,Divorced,8620,14,3,3,No,24,Yes
+332,50,Female,Research & Development,Senior Scientist,Below College,Single,3418,21,2,1,No,3,No
+333,23,Male,Research & Development,Laboratory Technician,Bachelor,Divorced,7337,10,1,2,No,6,Yes
+334,48,Male,Human Resources,HR Executive,Doctor,Married,7290,2,1,3,Yes,15,Yes
+335,28,Male,Research & Development,Manager,Doctor,Divorced,6022,34,2,2,Yes,24,No
+336,32,Female,Research & Development,Senior Scientist,Bachelor,Married,6407,34,3,1,No,10,No
+337,36,Male,Sales,Sales Executive,College,Married,7084,18,3,3,No,23,No
+338,38,Female,Research & Development,Research Scientist,College,Married,3820,19,2,1,No,11,No
+339,35,Female,Research & Development,Laboratory Technician,Bachelor,Single,5201,24,1,2,Yes,19,No
+340,32,Female,Research & Development,Research Scientist,Master,Married,6883,21,2,3,No,14,Yes
+341,32,Female,Sales,Sales Executive,Master,Married,7108,25,2,1,Yes,5,No
+342,43,Male,Research & Development,Laboratory Technician,Master,Divorced,8294,21,4,1,No,17,No
+343,24,Female,Research & Development,Senior Scientist,Doctor,Divorced,6083,22,4,3,Yes,19,Yes
+344,48,Male,Research & Development,Manager,Below College,Divorced,7029,30,1,2,Yes,28,Yes
+345,34,Female,Human Resources,HR Executive,College,Married,7734,33,2,3,Yes,2,No
+346,49,Female,Sales,Sales Representative,Doctor,Divorced,2000,7,4,3,No,14,No
+347,56,Female,Sales,Sales Representative,Below College,Single,8627,4,4,2,No,14,No
+348,40,Male,Sales,Sales Representative,Below College,Divorced,10251,30,3,2,No,10,No
+349,30,Male,Research & Development,Laboratory Technician,College,Divorced,6934,31,1,2,Yes,18,No
+350,55,Male,Research & Development,Senior Scientist,Master,Divorced,3902,34,4,2,Yes,7,No
+351,57,Male,Research & Development,Laboratory Technician,Doctor,Single,6607,12,1,2,No,22,Yes
+352,30,Female,Research & Development,Research Scientist,Bachelor,Married,9861,27,1,2,No,3,Yes
+353,49,Male,Research & Development,Laboratory Technician,Below College,Married,9544,2,4,3,No,27,No
+354,42,Male,Research & Development,Laboratory Technician,Below College,Divorced,5217,20,2,3,No,4,Yes
+355,37,Female,Research & Development,Laboratory Technician,Doctor,Single,6145,14,1,1,No,8,No
+356,25,Female,Sales,Sales Representative,Bachelor,Married,3540,12,3,1,No,25,No
+357,35,Male,Research & Development,Laboratory Technician,Below College,Married,9429,12,3,1,No,16,No
+358,32,Male,Research & Development,Senior Scientist,Master,Married,5586,30,1,3,No,1,No
+359,18,Female,Research & Development,Manager,Bachelor,Divorced,2617,14,4,1,No,25,No
+360,29,Male,Sales,Sales Representative,Bachelor,Married,5746,10,3,3,No,1,No
+361,57,Male,Research & Development,Research Scientist,College,Married,10334,34,3,3,No,21,No
+362,56,Female,Research & Development,Manager,Bachelor,Single,6844,5,3,2,No,6,No
+363,39,Female,Research & Development,Senior Scientist,Below College,Divorced,5099,31,1,1,No,28,No
+364,57,Female,Research & Development,Manager,Bachelor,Single,2000,17,4,1,No,8,No
+365,44,Male,Research & Development,Laboratory Technician,Master,Divorced,6713,23,2,2,No,26,No
+366,20,Female,Sales,Manager,Doctor,Divorced,2000,26,4,1,Yes,12,No
+367,51,Male,Sales,Manager,College,Divorced,3891,0,2,1,No,3,No
+368,39,Male,Research & Development,Research Scientist,Doctor,Single,3842,14,2,2,Yes,15,No
+369,22,Female,Sales,Sales Executive,Below College,Divorced,9659,3,3,2,Yes,3,No
+370,57,Female,Research & Development,Manager,College,Single,4384,7,3,3,No,5,Yes
+371,55,Male,Sales,Sales Executive,Doctor,Single,6976,29,3,3,Yes,27,No
+372,45,Female,Research & Development,Research Scientist,Below College,Divorced,7165,30,2,1,Yes,2,Yes
+373,39,Female,Sales,Sales Executive,Doctor,Divorced,3808,20,3,1,Yes,3,No
+374,34,Male,Research & Development,Manager,College,Single,7053,16,2,1,No,13,No
+375,25,Male,Sales,Manager,Doctor,Divorced,4713,34,4,2,No,26,No
+376,22,Female,Research & Development,Laboratory Technician,Master,Married,8742,5,3,2,No,17,No
+377,32,Male,Research & Development,Manager,Bachelor,Divorced,5033,18,4,3,No,16,Yes
+378,34,Male,Research & Development,Research Scientist,Bachelor,Married,7060,0,3,1,No,14,No
+379,21,Female,Sales,Sales Representative,Bachelor,Married,5404,31,1,2,No,22,No
+380,26,Male,Human Resources,HR Executive,Doctor,Married,5154,7,3,3,No,29,No
+381,55,Female,Research & Development,Laboratory Technician,College,Single,5278,33,3,2,Yes,5,Yes
+382,21,Male,Research & Development,Research Scientist,College,Married,9872,14,4,2,No,5,No
+383,20,Female,Sales,Manager,Bachelor,Divorced,10269,4,4,2,No,3,No
+384,28,Male,Research & Development,Senior Scientist,Bachelor,Married,4769,2,1,3,No,18,Yes
+385,27,Male,Research & Development,Manager,Doctor,Divorced,6238,22,2,1,Yes,13,No
+386,31,Female,Research & Development,Laboratory Technician,Below College,Married,2000,29,3,3,Yes,14,Yes
+387,52,Male,Research & Development,Laboratory Technician,Bachelor,Single,5565,1,4,1,No,22,Yes
+388,35,Male,Research & Development,Manager,Doctor,Divorced,5231,25,4,2,No,11,No
+389,21,Male,Sales,Sales Executive,College,Married,8878,7,3,3,No,14,No
+390,34,Male,Sales,Sales Executive,Doctor,Single,3947,20,4,1,Yes,4,No
+391,54,Female,Research & Development,Senior Scientist,College,Divorced,6472,28,3,3,No,14,No
+392,54,Male,Sales,Sales Executive,Master,Single,4856,19,1,2,No,2,No
+393,53,Female,Research & Development,Research Scientist,Doctor,Divorced,4135,28,4,2,No,15,No
+394,55,Female,Sales,Manager,Master,Divorced,8020,14,1,1,No,18,No
+395,28,Male,Sales,Sales Representative,College,Single,7114,3,3,2,No,3,No
+396,48,Male,Research & Development,Manager,College,Divorced,2000,9,2,2,No,17,No
+397,48,Male,Research & Development,Manager,Below College,Divorced,10173,25,3,2,Yes,17,No
+398,45,Male,Human Resources,HR Executive,College,Divorced,7238,1,2,3,Yes,8,Yes
+399,29,Male,Human Resources,HR Executive,College,Divorced,10668,15,2,2,No,6,Yes
+400,59,Female,Sales,Sales Representative,Below College,Single,10308,15,1,2,Yes,18,Yes
+401,49,Female,Research & Development,Laboratory Technician,Below College,Married,4000,25,1,2,Yes,2,No
+402,18,Male,Research & Development,Laboratory Technician,Master,Married,5907,26,2,3,No,2,Yes
+403,37,Male,Research & Development,Senior Scientist,Doctor,Married,9540,23,2,2,No,12,Yes
+404,53,Female,Research & Development,Research Scientist,Doctor,Single,6917,31,1,1,No,18,No
+405,33,Male,Sales,Sales Executive,Doctor,Single,9531,30,2,2,No,17,No
+406,49,Male,Research & Development,Manager,Master,Single,10837,33,1,1,No,23,No
+407,50,Male,Research & Development,Manager,Bachelor,Single,3619,22,4,1,No,3,No
+408,42,Male,Research & Development,Manager,College,Single,6945,4,4,3,Yes,23,No
+409,56,Male,Sales,Manager,Bachelor,Single,6274,0,1,2,No,6,No
+410,20,Female,Research & Development,Research Scientist,Bachelor,Single,8943,26,4,1,Yes,7,No
+411,44,Male,Research & Development,Laboratory Technician,Bachelor,Single,9311,27,4,3,No,22,No
+412,43,Female,Sales,Sales Representative,Bachelor,Married,8325,22,3,1,No,20,No
+413,29,Male,Research & Development,Manager,Bachelor,Married,7450,33,3,3,No,14,No
+414,18,Male,Research & Development,Senior Scientist,Bachelor,Married,6050,6,3,3,No,25,No
+415,54,Female,Research & Development,Senior Scientist,Doctor,Single,8067,6,2,2,No,22,No
+416,45,Male,Research & Development,Laboratory Technician,Below College,Married,6966,24,2,1,No,4,Yes
+417,20,Female,Sales,Sales Executive,Master,Single,6159,24,3,2,No,15,No
+418,55,Female,Research & Development,Laboratory Technician,Below College,Married,9150,6,2,1,No,9,Yes
+419,55,Male,Sales,Sales Executive,Master,Single,5800,33,4,1,No,22,Yes
+420,26,Male,Research & Development,Laboratory Technician,Bachelor,Single,4088,23,3,2,No,11,No
+421,45,Female,Research & Development,Laboratory Technician,Doctor,Divorced,5945,3,1,1,No,14,No
+422,47,Female,Research & Development,Senior Scientist,Bachelor,Married,3626,11,2,2,No,7,No
+423,40,Female,Research & Development,Laboratory Technician,Doctor,Married,7589,30,2,1,Yes,10,No
+424,47,Male,Research & Development,Laboratory Technician,Below College,Married,2000,20,4,3,Yes,11,Yes
+425,56,Male,Research & Development,Senior Scientist,Master,Married,5948,17,4,2,Yes,1,No
+426,21,Male,Sales,Manager,College,Single,5838,33,1,2,Yes,6,No
+427,33,Male,Research & Development,Research Scientist,Master,Divorced,9257,21,4,1,No,10,No
+428,56,Female,Research & Development,Manager,Doctor,Divorced,11338,2,3,2,Yes,15,No
+429,30,Male,Research & Development,Laboratory Technician,Bachelor,Divorced,9221,19,3,3,Yes,13,No
+430,26,Female,Research & Development,Manager,Doctor,Single,5559,6,3,3,Yes,9,No
+431,18,Female,Research & Development,Senior Scientist,Bachelor,Married,2000,11,1,1,No,14,No
+432,40,Male,Sales,Sales Executive,Doctor,Divorced,2000,24,2,2,No,14,Yes
+433,45,Male,Research & Development,Manager,Bachelor,Divorced,10953,27,1,2,No,16,No
+434,41,Female,Research & Development,Senior Scientist,Doctor,Single,3986,4,1,2,No,18,No
+435,29,Male,Research & Development,Laboratory Technician,Doctor,Married,10166,18,3,3,Yes,14,No
+436,58,Male,Research & Development,Senior Scientist,Bachelor,Divorced,9676,21,3,2,Yes,12,No
+437,50,Male,Research & Development,Manager,Master,Divorced,5123,12,2,3,No,22,Yes
+438,25,Female,Research & Development,Senior Scientist,Doctor,Married,11694,20,1,1,Yes,23,Yes
+439,40,Female,Research & Development,Manager,Doctor,Divorced,3386,20,1,3,No,13,No
+440,57,Male,Sales,Manager,College,Divorced,4675,19,3,2,No,21,No
+441,57,Female,Research & Development,Laboratory Technician,Doctor,Single,2000,27,1,1,Yes,26,Yes
+442,55,Female,Research & Development,Research Scientist,Doctor,Divorced,4986,13,2,3,Yes,3,Yes
+443,41,Male,Sales,Sales Executive,Bachelor,Married,3140,33,1,2,No,23,No
+444,26,Male,Research & Development,Manager,College,Divorced,8626,32,2,3,No,25,No
+445,23,Female,Research & Development,Laboratory Technician,Below College,Divorced,2777,23,4,1,No,15,No
+446,26,Female,Research & Development,Research Scientist,Master,Single,6735,15,3,3,No,5,No
+447,19,Male,Research & Development,Laboratory Technician,Doctor,Married,4415,7,3,3,Yes,9,Yes
+448,59,Male,Sales,Sales Executive,Master,Single,8186,11,1,2,No,9,No
+449,40,Male,Research & Development,Senior Scientist,Doctor,Divorced,2649,4,3,3,No,18,No
+450,19,Male,Sales,Sales Executive,Doctor,Married,3015,27,2,3,No,26,Yes
+451,36,Female,Sales,Sales Executive,Bachelor,Divorced,8553,23,1,3,No,23,No
+452,55,Female,Sales,Manager,Bachelor,Single,6614,24,4,3,Yes,19,Yes
+453,36,Female,Research & Development,Senior Scientist,Below College,Divorced,4748,5,4,2,No,29,No
+454,41,Male,Sales,Sales Representative,College,Divorced,8706,33,4,3,Yes,29,Yes
+455,56,Female,Human Resources,HR Executive,Bachelor,Divorced,6144,6,1,1,No,8,No
+456,20,Female,Sales,Manager,Doctor,Divorced,7346,26,1,3,Yes,7,No
+457,59,Male,Sales,Manager,Below College,Married,10153,16,3,1,No,3,No
+458,48,Male,Sales,Sales Representative,Below College,Divorced,2000,17,2,2,No,15,Yes
+459,53,Male,Research & Development,Laboratory Technician,Bachelor,Married,6149,23,4,1,Yes,20,No
+460,32,Female,Human Resources,Manager,Below College,Single,7269,33,2,2,No,23,No
+461,31,Female,Research & Development,Laboratory Technician,Bachelor,Married,2000,24,4,2,No,21,No
+462,33,Female,Research & Development,Research Scientist,College,Single,3007,16,4,2,Yes,4,No
+463,34,Male,Research & Development,Laboratory Technician,Below College,Single,9284,8,1,2,Yes,9,No
+464,39,Female,Research & Development,Laboratory Technician,Doctor,Married,2000,32,2,3,No,1,No
+465,35,Male,Research & Development,Research Scientist,Bachelor,Divorced,10138,5,2,2,Yes,10,Yes
+466,35,Female,Research & Development,Senior Scientist,Doctor,Single,8518,16,3,2,No,19,Yes
+467,20,Male,Research & Development,Senior Scientist,College,Married,2251,0,4,2,No,18,Yes
+468,26,Male,Research & Development,Laboratory Technician,Master,Married,7702,5,4,3,Yes,1,No
+469,24,Male,Sales,Manager,Below College,Divorced,4955,28,2,3,No,29,No
+470,48,Female,Research & Development,Research Scientist,College,Divorced,3382,16,2,2,No,15,No
+471,36,Male,Sales,Manager,Master,Married,6952,0,3,1,Yes,21,Yes
+472,57,Female,Research & Development,Laboratory Technician,Master,Single,9758,9,4,3,Yes,27,No
+473,32,Female,Sales,Manager,Doctor,Married,3456,18,2,2,Yes,17,No
+474,58,Female,Research & Development,Senior Scientist,Below College,Married,6898,5,3,2,Yes,1,Yes
+475,32,Female,Sales,Manager,Bachelor,Married,8753,26,1,1,Yes,23,No
+476,33,Female,Research & Development,Laboratory Technician,Doctor,Married,9150,34,3,3,Yes,2,No
+477,20,Female,Research & Development,Manager,College,Divorced,5993,13,4,2,No,7,No
+478,34,Male,Research & Development,Research Scientist,College,Divorced,5179,11,4,1,No,27,No
+479,19,Male,Sales,Manager,Master,Married,5680,22,4,2,Yes,26,Yes
+480,55,Male,Sales,Sales Executive,Doctor,Married,8502,32,1,1,No,25,Yes
+481,34,Male,Research & Development,Senior Scientist,Doctor,Married,7298,28,4,2,No,18,No
+482,35,Male,Research & Development,Research Scientist,Below College,Married,10634,28,3,2,No,24,No
+483,30,Male,Research & Development,Research Scientist,Bachelor,Divorced,7520,25,4,2,No,26,No
+484,20,Female,Research & Development,Senior Scientist,Below College,Married,5723,18,1,1,No,24,Yes
+485,43,Male,Research & Development,Manager,Master,Single,2340,15,4,1,No,1,Yes
+486,33,Female,Research & Development,Senior Scientist,Doctor,Divorced,9122,27,2,3,No,11,Yes
+487,43,Male,Research & Development,Research Scientist,Doctor,Divorced,6692,25,3,2,No,17,No
+488,31,Female,Research & Development,Research Scientist,College,Married,4081,20,4,2,Yes,23,Yes
+489,19,Female,Research & Development,Laboratory Technician,Master,Divorced,6468,1,4,2,No,2,No
+490,53,Female,Research & Development,Research Scientist,College,Divorced,8306,29,1,3,Yes,16,No
+491,54,Female,Sales,Sales Executive,Bachelor,Single,5800,4,3,1,No,15,Yes
+492,38,Female,Sales,Sales Representative,Doctor,Single,3302,10,2,2,No,3,No
+493,29,Female,Sales,Sales Representative,Master,Divorced,4979,30,3,1,No,4,Yes
+494,39,Male,Research & Development,Research Scientist,Master,Married,7407,4,3,2,Yes,10,No
+495,28,Male,Sales,Manager,Below College,Divorced,5138,10,4,1,No,21,No
+496,59,Female,Sales,Sales Executive,Doctor,Married,2787,20,2,1,Yes,7,No
+497,18,Female,Research & Development,Research Scientist,Doctor,Married,7992,5,1,3,No,24,No
+498,23,Male,Research & Development,Research Scientist,Below College,Married,5919,23,1,3,No,28,Yes
+499,59,Male,Research & Development,Senior Scientist,College,Married,5458,25,1,3,No,25,Yes
+500,48,Female,Research & Development,Research Scientist,Below College,Single,9299,1,2,3,No,2,No
+501,35,Female,Research & Development,Research Scientist,Doctor,Married,4547,10,2,2,No,1,No
+502,59,Male,Research & Development,Senior Scientist,College,Single,5850,29,3,2,No,22,Yes
+503,25,Female,Sales,Sales Representative,Below College,Single,3840,11,2,3,No,18,No
+504,54,Male,Research & Development,Laboratory Technician,College,Married,4763,23,4,3,No,28,No
+505,22,Male,Sales,Sales Executive,College,Single,4210,14,2,3,No,28,No
+506,53,Male,Research & Development,Senior Scientist,Below College,Divorced,3653,25,1,1,No,21,No
+507,56,Female,Sales,Manager,Doctor,Divorced,6157,3,4,3,Yes,25,Yes
+508,50,Female,Research & Development,Senior Scientist,Below College,Single,7478,27,4,3,Yes,14,Yes
+509,31,Male,Research & Development,Research Scientist,College,Married,4221,7,1,3,Yes,25,Yes
+510,36,Female,Research & Development,Research Scientist,Bachelor,Married,3453,11,2,3,No,8,No
+511,53,Male,Research & Development,Laboratory Technician,Bachelor,Single,5999,34,2,3,No,2,No
+512,32,Female,Research & Development,Research Scientist,College,Single,7079,33,2,1,Yes,26,Yes
+513,52,Female,Human Resources,Manager,College,Married,7269,22,2,1,No,4,No
+514,48,Male,Sales,Manager,Bachelor,Divorced,3761,33,3,1,No,16,No
+515,21,Female,Research & Development,Manager,Master,Married,4585,20,4,3,No,26,No
+516,40,Female,Research & Development,Manager,Doctor,Single,6413,14,1,2,No,19,No
+517,53,Female,Sales,Sales Representative,Master,Divorced,2642,3,3,2,No,23,No
+518,56,Male,Research & Development,Research Scientist,College,Married,6098,9,2,3,No,19,No
+519,56,Female,Sales,Sales Executive,Doctor,Married,5303,30,4,1,No,11,Yes
+520,30,Female,Research & Development,Research Scientist,Below College,Married,7398,28,3,1,No,12,No
+521,24,Female,Research & Development,Research Scientist,Bachelor,Single,8931,4,4,1,No,6,No
+522,18,Male,Research & Development,Research Scientist,Bachelor,Married,6794,20,3,1,No,25,No
+523,37,Female,Research & Development,Manager,Master,Single,6295,22,2,3,Yes,17,No
+524,36,Male,Sales,Sales Representative,College,Married,9227,19,1,1,Yes,2,Yes
+525,22,Male,Research & Development,Research Scientist,College,Single,6309,23,2,1,No,25,No
+526,41,Male,Sales,Sales Representative,Bachelor,Divorced,6131,16,1,3,Yes,9,No
+527,52,Female,Research & Development,Research Scientist,Bachelor,Divorced,9659,20,1,1,No,15,Yes
+528,39,Female,Sales,Manager,Bachelor,Married,4008,28,2,2,No,2,No
+529,26,Male,Sales,Sales Representative,Below College,Married,7143,17,1,2,No,4,No
+530,29,Female,Research & Development,Senior Scientist,Bachelor,Married,4073,21,3,3,Yes,29,Yes
+531,18,Male,Sales,Sales Executive,Below College,Divorced,2000,11,3,2,No,15,No
+532,24,Female,Human Resources,Manager,Below College,Divorced,6246,33,2,2,No,26,No
+533,31,Female,Research & Development,Manager,College,Single,2789,21,2,2,Yes,29,Yes
+534,30,Female,Research & Development,Manager,College,Married,5978,23,1,2,No,10,Yes
+535,41,Female,Research & Development,Research Scientist,Master,Divorced,2916,34,3,1,No,4,No
+536,34,Female,Sales,Sales Representative,Below College,Divorced,2000,16,1,2,Yes,20,Yes
+537,43,Female,Sales,Manager,Bachelor,Divorced,7151,11,4,1,No,7,Yes
+538,29,Male,Sales,Sales Executive,College,Single,7246,15,4,1,Yes,24,Yes
+539,27,Female,Research & Development,Manager,Master,Married,5402,6,1,2,No,20,No
+540,29,Male,Sales,Sales Executive,Below College,Single,6371,10,2,1,No,14,No
+541,37,Male,Research & Development,Laboratory Technician,Master,Single,7191,32,2,2,No,7,No
+542,47,Male,Sales,Sales Executive,College,Divorced,9488,17,3,1,Yes,6,Yes
+543,30,Male,Research & Development,Laboratory Technician,Bachelor,Single,8721,19,4,1,Yes,26,No
+544,59,Male,Sales,Manager,Doctor,Divorced,7402,4,3,2,No,26,No
+545,46,Female,Research & Development,Senior Scientist,Doctor,Married,4248,10,1,2,No,27,Yes
+546,19,Male,Research & Development,Laboratory Technician,Master,Divorced,4089,17,3,1,No,3,No
+547,55,Female,Human Resources,HR Executive,Bachelor,Divorced,9204,9,1,1,No,28,No
+548,29,Female,Research & Development,Laboratory Technician,Doctor,Single,5359,5,4,1,No,5,No
+549,43,Female,Research & Development,Research Scientist,Master,Married,4596,15,1,1,Yes,15,No
+550,38,Female,Research & Development,Manager,Bachelor,Married,5563,25,2,2,No,14,No
+551,24,Female,Research & Development,Research Scientist,Doctor,Divorced,5917,19,4,2,No,18,No
+552,47,Female,Research & Development,Manager,College,Single,6660,15,4,1,Yes,22,No
+553,33,Female,Research & Development,Research Scientist,Master,Married,2048,26,4,1,Yes,19,Yes
+554,40,Male,Research & Development,Senior Scientist,Doctor,Married,7352,6,2,1,Yes,14,Yes
+555,18,Male,Research & Development,Manager,College,Married,7307,5,1,2,Yes,18,No
+556,37,Male,Sales,Sales Executive,Master,Single,9709,0,1,3,No,20,No
+557,28,Female,Sales,Manager,Master,Single,7551,27,4,3,No,22,No
+558,28,Male,Research & Development,Laboratory Technician,College,Divorced,5055,3,3,1,No,10,Yes
+559,59,Female,Human Resources,HR Executive,Bachelor,Divorced,5964,25,1,1,No,2,No
+560,53,Female,Sales,Sales Representative,Master,Single,7448,0,4,3,No,22,No
+561,36,Male,Research & Development,Senior Scientist,Doctor,Divorced,7370,3,4,1,Yes,16,No
+562,53,Female,Research & Development,Research Scientist,Master,Divorced,4255,28,2,2,No,16,No
+563,31,Male,Sales,Manager,Doctor,Married,9226,32,3,2,No,15,No
+564,36,Male,Sales,Sales Executive,Doctor,Married,9499,15,4,1,No,23,Yes
+565,59,Female,Research & Development,Laboratory Technician,College,Divorced,6830,8,1,1,No,18,Yes
+566,31,Male,Research & Development,Research Scientist,College,Single,6213,14,1,2,No,17,No
+567,20,Male,Sales,Sales Representative,College,Married,8547,19,2,1,No,13,Yes
+568,54,Female,Research & Development,Senior Scientist,Master,Married,6894,4,2,1,No,9,Yes
+569,47,Female,Research & Development,Manager,Master,Single,5377,29,1,2,No,3,No
+570,56,Female,Research & Development,Research Scientist,Bachelor,Divorced,9413,22,1,2,Yes,9,No
+571,19,Female,Research & Development,Manager,College,Single,6029,9,4,3,No,2,No
+572,20,Male,Sales,Sales Representative,Bachelor,Married,9482,23,1,2,No,26,No
+573,19,Male,Research & Development,Senior Scientist,College,Married,7452,21,1,3,No,11,No
+574,51,Male,Research & Development,Senior Scientist,Below College,Divorced,3902,19,4,1,No,11,No
+575,44,Female,Sales,Manager,College,Divorced,9365,28,3,1,Yes,5,No
+576,24,Female,Sales,Manager,Master,Single,2000,27,1,1,No,5,Yes
+577,40,Male,Research & Development,Research Scientist,Bachelor,Married,7808,15,1,3,No,16,No
+578,23,Female,Research & Development,Research Scientist,College,Married,3449,23,2,3,No,28,Yes
+579,23,Female,Research & Development,Research Scientist,College,Divorced,6956,22,4,3,Yes,25,No
+580,26,Male,Research & Development,Research Scientist,Master,Married,7947,24,1,2,No,2,Yes
+581,23,Male,Research & Development,Laboratory Technician,Below College,Divorced,7700,10,1,2,No,1,No
+582,29,Male,Research & Development,Laboratory Technician,Below College,Married,3862,15,4,3,No,11,No
+583,32,Female,Sales,Manager,College,Single,6293,1,4,3,No,19,No
+584,31,Female,Human Resources,Manager,Below College,Single,7107,2,2,2,No,6,No
+585,44,Female,Research & Development,Research Scientist,Bachelor,Married,5121,27,1,1,No,8,No
+586,29,Female,Sales,Manager,Doctor,Single,6560,20,3,1,Yes,17,No
+587,47,Female,Human Resources,HR Executive,Doctor,Divorced,8307,20,2,1,No,21,No
+588,37,Female,Research & Development,Laboratory Technician,Below College,Married,6779,31,2,2,No,3,No
+589,36,Female,Sales,Sales Executive,Below College,Single,6555,4,2,2,Yes,25,No
+590,37,Male,Research & Development,Research Scientist,Doctor,Married,7891,32,4,2,No,16,Yes
+591,59,Male,Research & Development,Research Scientist,Below College,Married,6786,8,4,2,Yes,18,No
+592,32,Female,Research & Development,Laboratory Technician,Below College,Divorced,6951,4,2,1,No,18,Yes
+593,22,Female,Research & Development,Laboratory Technician,Bachelor,Married,9073,13,3,1,Yes,21,No
+594,31,Male,Research & Development,Research Scientist,Master,Married,8491,18,1,3,No,18,No
+595,57,Female,Research & Development,Manager,Below College,Single,6830,18,3,2,No,5,No
+596,27,Female,Research & Development,Laboratory Technician,Doctor,Divorced,7136,26,4,2,Yes,17,Yes
+597,33,Female,Research & Development,Laboratory Technician,Master,Divorced,7767,16,4,1,No,27,No
+598,55,Male,Sales,Sales Executive,Master,Married,6356,32,3,1,No,13,No
+599,31,Female,Sales,Sales Representative,College,Divorced,8069,31,1,2,No,26,Yes
+600,44,Male,Research & Development,Laboratory Technician,Bachelor,Married,5801,17,1,2,No,3,No
+601,39,Male,Sales,Sales Representative,Doctor,Divorced,9245,29,3,3,Yes,11,No
+602,43,Female,Research & Development,Laboratory Technician,College,Divorced,5550,3,2,2,Yes,27,No
+603,19,Male,Research & Development,Senior Scientist,Doctor,Divorced,5095,13,2,2,No,3,Yes
+604,56,Female,Research & Development,Manager,Master,Divorced,7698,24,1,2,No,19,No
+605,49,Female,Research & Development,Senior Scientist,Doctor,Single,6310,8,1,3,No,21,Yes
+606,34,Male,Sales,Manager,College,Married,2288,21,2,3,No,12,Yes
+607,46,Male,Research & Development,Manager,Master,Married,4796,5,3,2,Yes,24,No
+608,32,Male,Research & Development,Manager,Below College,Married,8919,11,1,3,Yes,28,Yes
+609,39,Female,Research & Development,Manager,Bachelor,Single,6424,13,2,2,No,21,No
+610,50,Male,Research & Development,Research Scientist,College,Married,8485,7,3,3,No,25,No
+611,45,Male,Research & Development,Senior Scientist,Master,Divorced,4259,3,2,2,No,25,No
+612,48,Male,Research & Development,Manager,College,Married,7258,19,3,3,No,23,No
+613,51,Female,Research & Development,Laboratory Technician,Bachelor,Married,2000,24,4,2,Yes,19,No
+614,57,Female,Sales,Manager,Master,Divorced,6522,18,3,1,No,14,No
+615,39,Male,Sales,Sales Representative,Doctor,Single,8787,11,2,2,Yes,8,No
+616,26,Male,Research & Development,Laboratory Technician,College,Single,6284,32,2,2,No,8,No
+617,23,Female,Research & Development,Manager,Doctor,Divorced,4675,32,2,1,Yes,8,No
+618,40,Male,Research & Development,Senior Scientist,College,Divorced,6537,14,1,2,No,25,No
+619,41,Female,Research & Development,Laboratory Technician,Bachelor,Divorced,10321,7,2,1,No,8,No
+620,34,Male,Research & Development,Manager,Master,Married,6297,15,1,1,No,17,No
+621,22,Female,Research & Development,Research Scientist,Bachelor,Single,4892,7,2,1,No,3,No
+622,42,Male,Research & Development,Research Scientist,Master,Divorced,5968,25,2,3,Yes,1,Yes
+623,29,Female,Research & Development,Laboratory Technician,Bachelor,Single,9310,22,4,3,Yes,11,No
+624,56,Female,Sales,Manager,Bachelor,Divorced,10070,25,4,1,No,13,No
+625,41,Female,Sales,Sales Executive,Below College,Married,2000,27,4,3,No,8,No
+626,54,Male,Research & Development,Senior Scientist,Bachelor,Single,2310,12,3,1,No,5,No
+627,30,Female,Research & Development,Research Scientist,Bachelor,Single,8480,6,2,3,No,7,No
+628,25,Male,Research & Development,Laboratory Technician,Master,Divorced,7235,32,2,1,No,16,No
+629,40,Female,Research & Development,Senior Scientist,College,Single,8322,28,2,1,No,24,Yes
+630,46,Male,Research & Development,Research Scientist,Master,Married,7377,30,4,3,No,9,No
+631,42,Male,Research & Development,Senior Scientist,College,Divorced,7266,34,2,2,No,25,Yes
+632,42,Female,Research & Development,Senior Scientist,College,Married,6508,30,3,2,No,12,Yes
+633,22,Male,Research & Development,Senior Scientist,Below College,Married,6711,21,4,3,No,14,No
+634,57,Male,Research & Development,Manager,Bachelor,Married,3826,33,2,3,Yes,22,Yes
+635,42,Male,Research & Development,Manager,Bachelor,Divorced,6212,29,1,3,Yes,20,No
+636,53,Male,Research & Development,Manager,College,Divorced,5635,5,3,1,No,2,No
+637,29,Male,Research & Development,Senior Scientist,Bachelor,Divorced,12347,18,3,2,Yes,16,No
+638,29,Male,Research & Development,Manager,College,Divorced,5664,0,1,1,Yes,24,Yes
+639,34,Male,Sales,Sales Representative,Below College,Divorced,5815,11,3,3,No,28,No
+640,54,Male,Research & Development,Laboratory Technician,Below College,Married,6464,6,3,3,No,13,No
+641,28,Female,Sales,Sales Executive,Master,Divorced,7928,12,1,1,No,28,No
+642,54,Female,Research & Development,Research Scientist,Below College,Married,6412,10,4,2,Yes,7,No
+643,46,Male,Research & Development,Manager,College,Divorced,7301,27,2,3,No,1,No
+644,27,Female,Research & Development,Laboratory Technician,Bachelor,Single,6710,0,1,1,No,20,Yes
+645,44,Male,Sales,Manager,Doctor,Single,7085,24,2,3,No,4,No
+646,54,Male,Research & Development,Research Scientist,Below College,Married,8886,19,1,2,Yes,17,Yes
+647,37,Male,Research & Development,Senior Scientist,Master,Divorced,5577,17,2,2,No,13,Yes
+648,31,Female,Sales,Manager,Bachelor,Divorced,7034,29,3,3,Yes,28,No
+649,38,Male,Research & Development,Senior Scientist,Master,Divorced,2000,9,3,2,No,12,No
+650,54,Female,Research & Development,Laboratory Technician,Below College,Married,11655,21,1,1,No,26,Yes
+651,23,Female,Research & Development,Laboratory Technician,Bachelor,Married,5582,11,2,2,No,11,No
+652,35,Male,Research & Development,Research Scientist,College,Single,6041,30,3,1,Yes,28,No
+653,48,Female,Sales,Manager,Bachelor,Divorced,2179,27,2,2,No,18,No
+654,58,Female,Sales,Sales Representative,College,Married,6454,25,3,2,Yes,5,No
+655,36,Female,Research & Development,Research Scientist,Doctor,Single,7181,11,2,2,No,1,No
+656,41,Female,Research & Development,Manager,Doctor,Single,7543,23,2,2,Yes,6,No
+657,52,Male,Sales,Manager,Doctor,Single,2000,27,1,3,Yes,10,No
+658,59,Female,Sales,Manager,College,Married,8294,0,4,1,No,2,No
+659,44,Male,Sales,Manager,College,Married,11534,3,1,1,No,18,No
+660,23,Male,Research & Development,Research Scientist,Doctor,Single,7905,18,2,1,Yes,26,No
+661,50,Female,Sales,Sales Executive,Master,Married,6425,3,1,1,No,18,No
+662,50,Female,Research & Development,Senior Scientist,Bachelor,Single,6060,27,3,1,No,10,No
+663,32,Male,Research & Development,Senior Scientist,Below College,Single,7688,22,3,3,No,27,No
+664,26,Female,Research & Development,Manager,Doctor,Single,2132,32,3,2,Yes,2,No
+665,53,Female,Research & Development,Laboratory Technician,Doctor,Divorced,4242,20,4,2,Yes,12,No
+666,54,Male,Sales,Sales Representative,College,Married,3999,17,1,3,No,15,No
+667,40,Male,Research & Development,Laboratory Technician,College,Married,6918,9,2,1,Yes,5,No
+668,40,Female,Sales,Manager,Doctor,Divorced,9405,16,1,2,Yes,11,No
+669,48,Male,Research & Development,Research Scientist,Below College,Married,7130,4,2,2,Yes,11,No
+670,18,Female,Research & Development,Research Scientist,Master,Married,9652,24,3,1,No,12,No
+671,39,Female,Human Resources,Manager,College,Married,6571,15,4,1,No,16,No
+672,25,Female,Research & Development,Senior Scientist,Doctor,Married,4720,18,3,2,No,21,No
+673,27,Female,Research & Development,Laboratory Technician,College,Married,3173,5,2,2,No,7,No
+674,23,Male,Research & Development,Research Scientist,Doctor,Divorced,2000,15,2,1,No,7,Yes
+675,48,Female,Research & Development,Manager,College,Single,8110,24,2,2,No,28,Yes
+676,38,Female,Research & Development,Manager,College,Divorced,4258,1,2,2,No,28,Yes
+677,21,Male,Sales,Sales Representative,College,Divorced,4050,1,3,1,No,29,No
+678,48,Female,Research & Development,Laboratory Technician,College,Married,5509,17,2,1,Yes,19,No
+679,20,Female,Research & Development,Manager,Below College,Single,5261,29,1,1,Yes,20,Yes
+680,25,Female,Sales,Manager,Bachelor,Married,9536,29,4,3,Yes,20,No
+681,26,Female,Research & Development,Research Scientist,Master,Single,8940,12,3,2,Yes,19,No
+682,19,Female,Sales,Sales Executive,Doctor,Married,9998,8,1,2,No,20,Yes
+683,30,Female,Sales,Sales Representative,Bachelor,Divorced,2000,2,1,2,No,21,Yes
+684,50,Female,Research & Development,Research Scientist,Bachelor,Divorced,3273,17,3,2,No,1,No
+685,59,Female,Research & Development,Manager,Below College,Married,4406,24,4,2,Yes,19,Yes
+686,42,Female,Research & Development,Senior Scientist,Below College,Married,5193,22,1,3,Yes,8,Yes
+687,32,Male,Sales,Sales Executive,Bachelor,Married,3870,9,1,3,No,27,No
+688,24,Male,Research & Development,Research Scientist,Below College,Single,2000,14,3,3,Yes,12,No
+689,58,Male,Sales,Sales Executive,College,Married,8375,17,3,3,No,8,No
+690,21,Male,Sales,Sales Representative,Master,Divorced,4375,9,4,2,No,12,No
+691,54,Male,Research & Development,Laboratory Technician,Master,Single,5270,8,2,2,No,25,No
+692,18,Male,Research & Development,Laboratory Technician,Below College,Divorced,9820,7,1,1,No,19,No
+693,33,Male,Research & Development,Laboratory Technician,College,Married,2000,24,4,3,No,12,No
+694,32,Male,Research & Development,Manager,College,Married,9585,26,2,3,No,8,No
+695,59,Male,Research & Development,Manager,Below College,Divorced,8600,16,3,3,Yes,20,No
+696,36,Female,Research & Development,Senior Scientist,Doctor,Divorced,11590,21,3,2,Yes,28,No
+697,34,Male,Research & Development,Research Scientist,Master,Married,9400,17,3,2,Yes,6,Yes
+698,27,Female,Sales,Manager,Master,Divorced,7299,30,3,2,No,10,No
+699,54,Male,Research & Development,Laboratory Technician,Bachelor,Married,4318,11,4,3,Yes,10,No
+700,57,Female,Sales,Sales Executive,Bachelor,Married,7703,25,2,1,Yes,17,No
+701,24,Female,Sales,Sales Representative,College,Married,10458,21,2,3,No,9,No
+702,20,Male,Research & Development,Laboratory Technician,Below College,Single,6907,30,4,2,No,3,No
+703,38,Male,Research & Development,Laboratory Technician,Master,Divorced,5701,13,3,3,No,6,No
+704,55,Female,Research & Development,Laboratory Technician,College,Single,7857,8,4,3,No,27,No
+705,30,Male,Sales,Sales Executive,Master,Divorced,9946,18,4,2,No,14,No
+706,46,Male,Sales,Sales Representative,Master,Single,4821,28,4,2,No,3,No
+707,23,Female,Research & Development,Research Scientist,Bachelor,Divorced,9710,2,3,1,Yes,15,No
+708,43,Male,Research & Development,Senior Scientist,College,Married,2000,13,1,1,No,5,Yes
+709,56,Female,Research & Development,Manager,College,Single,7482,26,3,1,No,20,Yes
+710,30,Male,Research & Development,Manager,Master,Single,7735,25,2,1,No,4,No
+711,33,Male,Research & Development,Manager,Doctor,Divorced,6645,30,4,1,No,23,Yes
+712,41,Female,Research & Development,Laboratory Technician,Master,Married,4990,23,3,1,Yes,27,No
+713,21,Male,Research & Development,Research Scientist,Below College,Single,3174,16,4,3,No,21,No
+714,18,Female,Sales,Sales Representative,Doctor,Married,10564,30,2,1,Yes,18,Yes
+715,22,Female,Research & Development,Laboratory Technician,Master,Married,7023,20,4,1,No,15,No
+716,45,Male,Sales,Sales Executive,Doctor,Divorced,5097,29,1,1,No,17,No
+717,41,Female,Research & Development,Research Scientist,Below College,Single,3388,2,1,3,No,29,No
+718,53,Male,Research & Development,Research Scientist,Below College,Single,6433,11,4,2,No,25,No
+719,59,Male,Research & Development,Research Scientist,Below College,Divorced,5033,15,2,2,No,24,No
+720,42,Female,Sales,Sales Representative,Doctor,Divorced,6035,29,3,3,No,29,No
+721,48,Female,Sales,Sales Representative,Below College,Divorced,6572,20,2,3,No,20,No
+722,37,Female,Research & Development,Senior Scientist,Below College,Single,8244,10,2,3,No,22,No
+723,54,Female,Research & Development,Manager,Below College,Divorced,14245,25,1,3,No,13,No
+724,45,Male,Research & Development,Manager,Master,Divorced,5854,1,1,2,Yes,9,No
+725,19,Female,Sales,Manager,Master,Divorced,2224,16,3,3,No,13,No
+726,57,Female,Sales,Sales Executive,College,Single,4857,22,2,2,No,1,No
+727,24,Female,Sales,Sales Representative,Doctor,Married,9956,15,3,1,No,6,No
+728,48,Female,Research & Development,Research Scientist,Doctor,Divorced,11644,2,2,3,Yes,7,No
+729,18,Male,Research & Development,Senior Scientist,Bachelor,Single,8484,2,1,1,Yes,10,No
+730,45,Male,Research & Development,Senior Scientist,Master,Divorced,7524,3,3,1,No,10,No
+731,18,Male,Research & Development,Laboratory Technician,Doctor,Married,6103,28,1,1,Yes,29,No
+732,44,Male,Sales,Sales Representative,Bachelor,Divorced,7043,20,1,3,Yes,5,Yes
+733,52,Female,Research & Development,Research Scientist,Bachelor,Single,5811,2,1,1,No,14,No
+734,31,Female,Research & Development,Research Scientist,Below College,Single,5163,11,3,3,No,1,No
+735,33,Male,Research & Development,Manager,Below College,Married,8490,23,2,1,No,3,Yes
+736,45,Male,Sales,Sales Executive,Doctor,Single,7618,32,2,1,No,24,No
+737,39,Male,Research & Development,Senior Scientist,Doctor,Divorced,9221,6,1,1,No,29,No
+738,22,Male,Research & Development,Laboratory Technician,Below College,Single,7023,33,2,2,No,7,No
+739,25,Female,Research & Development,Research Scientist,Doctor,Single,9452,11,1,2,No,28,No
+740,33,Female,Research & Development,Manager,College,Married,7508,2,2,1,Yes,9,No
+741,38,Male,Sales,Manager,Below College,Divorced,6136,20,3,2,No,25,No
+742,37,Female,Sales,Sales Representative,Below College,Married,3585,28,2,1,No,6,No
+743,35,Female,Research & Development,Manager,Master,Single,4468,32,3,1,Yes,26,No
+744,49,Male,Sales,Sales Executive,Below College,Divorced,11763,11,3,1,No,22,Yes
+745,31,Male,Human Resources,Manager,College,Married,12262,32,4,3,No,9,No
+746,25,Female,Research & Development,Senior Scientist,College,Single,5974,32,1,2,No,5,No
+747,18,Male,Research & Development,Laboratory Technician,Doctor,Divorced,8410,18,2,2,No,1,No
+748,33,Male,Research & Development,Manager,Below College,Divorced,4313,13,3,1,Yes,25,No
+749,46,Female,Research & Development,Senior Scientist,Master,Single,7932,11,1,3,No,25,No
+750,58,Female,Research & Development,Research Scientist,College,Single,3977,26,4,1,No,2,No
+751,40,Male,Research & Development,Manager,College,Single,6905,9,1,1,No,2,No
+752,34,Male,Sales,Sales Representative,Master,Single,3856,8,4,2,No,18,No
+753,25,Male,Sales,Sales Executive,Below College,Single,6262,30,1,1,No,7,No
+754,34,Female,Research & Development,Research Scientist,Below College,Married,6310,24,3,1,No,16,No
+755,25,Male,Research & Development,Senior Scientist,College,Married,6597,4,1,1,Yes,3,Yes
+756,57,Male,Research & Development,Manager,Doctor,Married,8365,17,3,3,No,6,No
+757,48,Male,Research & Development,Senior Scientist,Bachelor,Divorced,6962,25,4,1,Yes,1,Yes
+758,31,Female,Sales,Manager,Master,Divorced,7631,18,3,2,No,19,Yes
+759,31,Male,Sales,Sales Executive,Master,Married,4585,22,3,2,No,13,No
+760,18,Female,Sales,Manager,Doctor,Married,6263,10,1,3,No,28,No
+761,43,Female,Sales,Sales Executive,Doctor,Single,10924,7,2,1,Yes,24,No
+762,42,Female,Research & Development,Laboratory Technician,Master,Single,6820,1,2,1,Yes,12,No
+763,50,Female,Sales,Sales Representative,Doctor,Married,7879,5,2,3,Yes,13,No
+764,24,Male,Research & Development,Research Scientist,College,Married,5639,12,3,3,No,29,No
+765,52,Male,Sales,Sales Executive,College,Divorced,9856,12,2,2,No,4,No
+766,40,Male,Sales,Manager,Doctor,Single,8255,20,1,3,No,28,No
+767,58,Male,Research & Development,Manager,Master,Married,7575,22,2,1,Yes,24,Yes
+768,29,Male,Research & Development,Manager,Doctor,Divorced,8615,27,4,2,No,27,Yes
+769,35,Male,Sales,Sales Executive,Below College,Divorced,2310,32,3,1,Yes,18,Yes
+770,52,Female,Research & Development,Laboratory Technician,Master,Divorced,6771,10,1,1,No,16,Yes
+771,55,Male,Research & Development,Senior Scientist,Below College,Divorced,10478,16,2,2,No,3,No
+772,30,Female,Sales,Sales Representative,Bachelor,Married,8691,15,2,3,No,9,No
+773,57,Male,Research & Development,Manager,Bachelor,Single,2010,12,4,1,No,23,Yes
+774,23,Female,Sales,Sales Executive,Master,Married,2541,17,4,3,No,18,No
+775,57,Male,Sales,Sales Executive,Below College,Married,2827,5,2,2,No,17,No
+776,52,Female,Research & Development,Research Scientist,Bachelor,Married,5644,26,3,3,No,22,No
+777,26,Female,Research & Development,Laboratory Technician,Doctor,Divorced,2934,22,1,3,Yes,19,Yes
+778,40,Female,Sales,Manager,Bachelor,Married,7484,10,3,3,Yes,1,No
+779,40,Male,Research & Development,Laboratory Technician,Bachelor,Single,10917,11,3,2,Yes,19,No
+780,44,Male,Research & Development,Laboratory Technician,Below College,Married,3839,4,3,1,No,15,No
+781,30,Male,Sales,Manager,Doctor,Married,11396,16,1,1,No,14,No
+782,53,Male,Research & Development,Laboratory Technician,College,Divorced,8595,2,2,3,No,28,No
+783,24,Female,Sales,Sales Representative,Doctor,Divorced,12479,4,3,1,No,29,No
+784,47,Male,Research & Development,Manager,Doctor,Married,4581,2,3,2,No,29,No
+785,59,Male,Research & Development,Research Scientist,Doctor,Single,5674,31,4,2,No,29,No
+786,48,Male,Research & Development,Research Scientist,Doctor,Divorced,10467,1,2,1,No,3,Yes
+787,37,Male,Research & Development,Research Scientist,College,Married,5978,19,1,2,No,27,Yes
+788,30,Female,Research & Development,Research Scientist,Bachelor,Married,4324,7,2,2,No,10,No
+789,20,Female,Sales,Manager,Master,Married,2934,33,1,1,No,7,No
+790,59,Male,Research & Development,Laboratory Technician,Doctor,Single,5317,20,2,3,Yes,15,No
+791,34,Male,Research & Development,Manager,College,Married,8434,30,3,1,No,27,No
+792,49,Male,Sales,Sales Executive,Master,Divorced,8044,12,4,1,No,8,No
+793,56,Male,Research & Development,Senior Scientist,Master,Married,8078,1,3,3,No,17,No
+794,51,Male,Sales,Manager,College,Married,6127,22,1,2,No,28,No
+795,40,Male,Research & Development,Research Scientist,Below College,Single,7736,32,3,3,No,16,No
+796,46,Female,Research & Development,Senior Scientist,College,Divorced,7251,23,1,3,Yes,29,No
+797,43,Female,Sales,Manager,Master,Married,7738,27,3,2,Yes,26,Yes
+798,31,Female,Research & Development,Laboratory Technician,Bachelor,Married,6189,16,2,2,No,2,No
+799,42,Female,Sales,Sales Representative,College,Divorced,4302,3,1,3,Yes,13,Yes
+800,51,Male,Research & Development,Senior Scientist,Master,Married,7241,4,2,1,No,22,Yes
+801,46,Female,Research & Development,Research Scientist,Bachelor,Married,5937,9,2,2,No,26,Yes
+802,42,Male,Research & Development,Manager,Bachelor,Married,8996,3,4,3,No,24,No
+803,53,Female,Research & Development,Laboratory Technician,Bachelor,Married,5959,16,3,2,No,23,No
+804,18,Female,Sales,Sales Executive,Master,Married,3958,25,4,3,No,28,No
+805,38,Female,Human Resources,HR Executive,Below College,Divorced,4584,6,1,1,No,28,No
+806,54,Female,Research & Development,Research Scientist,College,Single,5346,15,4,1,No,24,No
+807,52,Male,Research & Development,Manager,College,Single,10281,16,4,1,Yes,2,No
+808,33,Male,Research & Development,Manager,Doctor,Single,3671,19,2,3,No,12,No
+809,51,Male,Research & Development,Research Scientist,Doctor,Divorced,3995,24,2,3,Yes,22,No
+810,24,Male,Sales,Sales Executive,Doctor,Single,5306,31,4,1,No,5,Yes
+811,34,Female,Sales,Manager,College,Married,2138,4,3,1,No,3,No
+812,45,Female,Research & Development,Senior Scientist,College,Married,4195,32,4,2,Yes,17,No
+813,48,Male,Research & Development,Senior Scientist,College,Divorced,3441,6,4,2,No,11,Yes
+814,53,Female,Research & Development,Research Scientist,College,Divorced,10061,30,1,1,No,2,No
+815,36,Male,Human Resources,Manager,College,Divorced,6006,12,4,3,No,20,No
+816,54,Male,Sales,Sales Executive,Master,Married,9418,34,1,2,Yes,9,Yes
+817,39,Male,Research & Development,Laboratory Technician,Doctor,Single,5177,18,4,3,No,23,No
+818,35,Male,Sales,Sales Executive,College,Divorced,5270,2,3,1,No,12,Yes
+819,41,Female,Sales,Sales Executive,Below College,Married,4171,15,4,1,No,7,Yes
+820,31,Male,Sales,Sales Executive,Doctor,Married,8205,3,4,3,No,21,No
+821,44,Female,Research & Development,Senior Scientist,College,Single,8045,33,4,1,No,11,No
+822,29,Female,Research & Development,Research Scientist,Bachelor,Divorced,7460,28,2,3,Yes,24,Yes
+823,54,Male,Sales,Sales Representative,Master,Married,7120,16,2,3,Yes,1,No
+824,32,Female,Research & Development,Research Scientist,Bachelor,Married,6700,29,2,2,Yes,24,No
+825,30,Male,Research & Development,Laboratory Technician,Bachelor,Divorced,5381,27,2,1,No,19,No
+826,36,Male,Research & Development,Senior Scientist,Master,Divorced,8129,8,4,3,No,8,No
+827,22,Male,Research & Development,Manager,College,Divorced,9223,28,4,2,Yes,21,Yes
+828,18,Female,Sales,Manager,Bachelor,Divorced,12413,34,3,3,Yes,20,No
+829,33,Male,Research & Development,Manager,Bachelor,Single,12133,25,3,2,Yes,4,Yes
+830,49,Female,Research & Development,Research Scientist,Below College,Single,5340,10,1,1,No,24,No
+831,44,Female,Sales,Manager,Bachelor,Single,6656,32,2,2,No,14,No
+832,41,Male,Sales,Manager,Bachelor,Divorced,4867,12,1,3,No,3,No
+833,40,Male,Sales,Sales Executive,Below College,Married,5484,26,3,3,Yes,1,Yes
+834,57,Male,Sales,Sales Executive,Doctor,Married,2528,25,2,1,No,7,No
+835,26,Female,Sales,Sales Executive,Master,Single,6723,28,2,3,No,2,No
+836,18,Male,Research & Development,Manager,Bachelor,Divorced,6668,14,3,2,No,22,Yes
+837,34,Male,Research & Development,Research Scientist,Master,Married,6186,6,2,3,No,16,No
+838,37,Male,Research & Development,Manager,Doctor,Single,9010,11,2,3,Yes,6,Yes
+839,26,Male,Research & Development,Senior Scientist,Master,Single,9181,14,1,3,No,9,No
+840,31,Female,Sales,Sales Executive,Doctor,Married,10071,11,1,1,Yes,24,No
+841,33,Female,Research & Development,Laboratory Technician,Master,Single,7135,20,3,2,No,16,Yes
+842,40,Male,Research & Development,Manager,Below College,Single,4745,8,1,1,No,11,Yes
+843,22,Male,Sales,Sales Executive,Below College,Single,2719,1,2,3,No,6,No
+844,26,Female,Sales,Sales Executive,Master,Married,4509,17,3,3,No,17,No
+845,58,Male,Sales,Sales Representative,Doctor,Divorced,8770,2,2,3,No,13,No
+846,34,Female,Research & Development,Research Scientist,Below College,Divorced,7616,25,1,3,No,10,No
+847,32,Male,Research & Development,Laboratory Technician,Below College,Single,5526,22,1,1,No,26,No
+848,29,Female,Research & Development,Laboratory Technician,Bachelor,Single,3921,14,2,1,Yes,28,Yes
+849,35,Female,Research & Development,Manager,Master,Married,5062,25,3,3,No,10,No
+850,52,Male,Sales,Sales Executive,Bachelor,Divorced,9288,9,3,3,No,26,No
+851,21,Male,Research & Development,Research Scientist,Below College,Single,2000,6,1,2,Yes,11,No
+852,31,Female,Human Resources,Manager,College,Single,6409,3,4,3,No,10,No
+853,36,Male,Research & Development,Laboratory Technician,Doctor,Divorced,11480,28,3,3,Yes,14,Yes
+854,21,Male,Sales,Manager,College,Divorced,11084,6,3,3,Yes,28,Yes
+855,37,Male,Research & Development,Manager,Doctor,Divorced,7464,27,3,2,Yes,5,No
+856,57,Male,Research & Development,Laboratory Technician,Master,Married,3558,27,2,2,No,3,Yes
+857,52,Male,Research & Development,Senior Scientist,Master,Single,5215,32,2,1,No,15,No
+858,51,Female,Sales,Sales Executive,Master,Married,8881,34,2,3,No,1,Yes
+859,53,Male,Sales,Sales Executive,Doctor,Married,5183,11,4,3,No,20,No
+860,30,Male,Research & Development,Manager,College,Single,3194,6,2,2,Yes,8,No
+861,40,Female,Sales,Manager,College,Single,9027,2,1,3,No,19,No
+862,34,Female,Sales,Sales Representative,Master,Divorced,15322,9,3,2,No,25,No
+863,38,Female,Research & Development,Laboratory Technician,Master,Divorced,7930,12,1,2,No,15,No
+864,39,Female,Sales,Sales Representative,Doctor,Married,7989,4,1,2,No,12,No
+865,43,Male,Research & Development,Senior Scientist,Doctor,Single,3778,34,3,1,Yes,26,No
+866,49,Female,Sales,Sales Representative,Master,Married,12901,19,3,2,Yes,29,No
+867,56,Female,Research & Development,Laboratory Technician,Master,Married,6794,33,4,1,No,7,No
+868,50,Female,Research & Development,Research Scientist,Master,Single,2728,6,4,3,Yes,24,No
+869,55,Female,Sales,Manager,Bachelor,Single,9546,11,4,3,Yes,18,No
+870,30,Male,Sales,Manager,Doctor,Single,6805,12,2,2,Yes,2,Yes
+871,59,Female,Research & Development,Manager,Below College,Single,6604,12,3,1,No,12,No
+872,36,Male,Human Resources,HR Executive,Master,Married,4706,29,3,3,No,8,No
+873,31,Male,Research & Development,Manager,Bachelor,Single,9022,12,4,3,Yes,7,No
+874,59,Male,Sales,Manager,Doctor,Married,10022,24,1,1,No,16,No
+875,42,Male,Sales,Sales Representative,Master,Married,5801,8,3,1,Yes,1,Yes
+876,19,Male,Research & Development,Research Scientist,Bachelor,Married,6491,13,2,1,No,9,Yes
+877,57,Female,Research & Development,Manager,College,Married,12109,31,4,1,No,12,No
+878,42,Female,Sales,Sales Executive,Below College,Married,2000,22,2,2,No,28,Yes
+879,51,Female,Research & Development,Manager,College,Married,3931,14,4,1,No,22,No
+880,39,Male,Sales,Manager,Doctor,Married,10088,19,1,2,No,24,No
+881,21,Female,Research & Development,Research Scientist,College,Married,7321,22,2,3,No,9,No
+882,38,Male,Human Resources,HR Executive,Bachelor,Divorced,9142,3,1,3,Yes,29,No
+883,39,Male,Research & Development,Senior Scientist,Master,Single,8329,15,2,3,No,12,No
+884,49,Female,Research & Development,Senior Scientist,Doctor,Single,9636,34,1,1,Yes,29,No
+885,29,Male,Research & Development,Manager,Doctor,Single,10923,14,2,2,No,17,No
+886,40,Male,Sales,Sales Executive,Below College,Single,6998,18,1,1,Yes,27,No
+887,52,Male,Research & Development,Laboratory Technician,College,Divorced,5844,3,4,3,No,25,No
+888,24,Female,Research & Development,Laboratory Technician,Doctor,Divorced,6999,25,2,2,No,29,No
+889,34,Female,Research & Development,Senior Scientist,Doctor,Married,2000,8,3,2,No,28,No
+890,31,Female,Research & Development,Laboratory Technician,Below College,Single,2207,17,4,2,No,14,No
+891,41,Female,Research & Development,Research Scientist,Master,Divorced,5117,8,3,2,Yes,29,No
+892,41,Male,Research & Development,Senior Scientist,College,Divorced,8505,14,3,1,Yes,23,No
+893,18,Male,Research & Development,Manager,College,Single,5781,4,4,3,No,28,Yes
+894,57,Male,Research & Development,Senior Scientist,Doctor,Single,3923,22,2,2,No,28,Yes
+895,23,Female,Sales,Manager,College,Single,5736,28,4,3,Yes,16,No
+896,36,Male,Research & Development,Laboratory Technician,Master,Divorced,9906,1,1,2,No,7,No
+897,28,Female,Research & Development,Research Scientist,Bachelor,Married,6849,16,4,1,No,14,No
+898,43,Male,Research & Development,Research Scientist,College,Single,6662,26,2,2,Yes,5,Yes
+899,20,Female,Sales,Sales Representative,Below College,Single,9266,33,2,1,No,12,Yes
+900,42,Male,Research & Development,Research Scientist,Master,Single,2000,33,1,2,No,19,No
+901,46,Female,Sales,Manager,Below College,Divorced,5146,6,2,1,Yes,11,No
+902,43,Male,Research & Development,Research Scientist,Bachelor,Single,4562,2,1,1,No,22,Yes
+903,30,Male,Research & Development,Research Scientist,Below College,Single,12811,9,4,1,No,27,No
+904,20,Female,Research & Development,Senior Scientist,Below College,Married,3008,30,3,3,Yes,24,No
+905,20,Female,Research & Development,Research Scientist,Bachelor,Divorced,8584,32,1,3,No,11,No
+906,23,Female,Research & Development,Manager,Doctor,Married,6923,34,4,1,No,4,No
+907,28,Female,Research & Development,Senior Scientist,Master,Divorced,6064,2,4,3,No,10,No
+908,49,Female,Sales,Manager,Bachelor,Single,10785,12,2,3,No,28,No
+909,54,Male,Research & Development,Senior Scientist,Below College,Divorced,6805,30,3,1,No,19,No
+910,42,Female,Research & Development,Manager,Master,Divorced,5452,28,3,3,No,15,No
+911,28,Female,Research & Development,Manager,Doctor,Single,5374,25,4,1,No,16,No
+912,21,Female,Research & Development,Research Scientist,Below College,Divorced,4609,5,4,1,No,5,No
+913,58,Female,Sales,Sales Representative,Doctor,Married,4760,12,2,3,No,21,No
+914,23,Female,Research & Development,Research Scientist,Bachelor,Single,12323,32,3,1,No,8,Yes
+915,19,Female,Sales,Sales Representative,Below College,Divorced,3263,31,3,1,No,20,No
+916,34,Female,Research & Development,Manager,Bachelor,Single,4454,26,4,2,No,16,No
+917,34,Female,Research & Development,Manager,Bachelor,Divorced,3586,32,3,3,No,25,No
+918,23,Female,Research & Development,Senior Scientist,Bachelor,Single,2722,24,1,3,Yes,11,No
+919,33,Male,Research & Development,Research Scientist,Bachelor,Married,8080,25,4,1,No,28,No
+920,59,Male,Sales,Sales Representative,Bachelor,Single,5167,20,4,3,No,2,No
+921,45,Female,Research & Development,Senior Scientist,College,Divorced,13613,26,2,1,No,17,Yes
+922,18,Male,Human Resources,HR Executive,College,Divorced,5726,6,4,3,No,18,No
+923,48,Male,Research & Development,Research Scientist,Below College,Divorced,2992,26,2,1,Yes,23,Yes
+924,20,Female,Research & Development,Manager,Below College,Divorced,8696,9,1,2,Yes,17,No
+925,29,Male,Sales,Sales Representative,Below College,Single,6110,28,1,3,No,6,No
+926,51,Male,Sales,Manager,Below College,Single,5618,29,1,1,No,21,No
+927,22,Female,Research & Development,Laboratory Technician,Master,Divorced,9886,16,4,1,No,20,No
+928,23,Female,Sales,Sales Representative,Master,Single,3446,31,2,2,No,20,No
+929,39,Female,Research & Development,Laboratory Technician,Bachelor,Single,4776,20,3,1,No,18,No
+930,21,Female,Sales,Sales Executive,College,Single,2994,8,2,3,No,5,No
+931,54,Female,Research & Development,Laboratory Technician,Below College,Divorced,8633,4,4,3,No,9,No
+932,41,Female,Research & Development,Manager,College,Single,2313,12,4,3,Yes,15,Yes
+933,57,Female,Sales,Sales Executive,Master,Divorced,3851,4,1,3,Yes,11,No
+934,35,Female,Sales,Sales Executive,Master,Single,5249,14,3,2,No,6,No
+935,30,Female,Sales,Manager,College,Divorced,5203,19,2,1,No,17,Yes
+936,56,Female,Sales,Sales Executive,Bachelor,Married,7986,25,4,1,No,28,Yes
+937,40,Female,Research & Development,Laboratory Technician,Master,Single,4702,32,3,3,No,9,Yes
+938,53,Female,Research & Development,Manager,Master,Married,4713,17,4,3,No,23,Yes
+939,36,Male,Research & Development,Senior Scientist,Below College,Divorced,3330,1,1,1,No,20,No
+940,32,Female,Research & Development,Research Scientist,Below College,Divorced,3796,11,1,2,No,12,Yes
+941,57,Male,Research & Development,Senior Scientist,Bachelor,Divorced,4330,1,1,3,No,22,No
+942,47,Female,Research & Development,Research Scientist,Bachelor,Married,5966,20,4,2,No,11,No
+943,41,Male,Research & Development,Laboratory Technician,Master,Married,8266,1,4,2,No,17,No
+944,38,Female,Sales,Sales Representative,College,Divorced,9453,12,4,1,No,24,Yes
+945,58,Male,Sales,Sales Executive,College,Divorced,4957,7,1,1,Yes,28,Yes
+946,34,Male,Human Resources,Manager,College,Single,5362,23,3,1,Yes,19,No
+947,49,Male,Research & Development,Manager,Bachelor,Married,2785,3,1,3,No,2,Yes
+948,27,Male,Research & Development,Manager,Doctor,Divorced,5484,12,2,3,No,3,No
+949,19,Female,Research & Development,Laboratory Technician,College,Single,9473,28,3,1,Yes,23,No
+950,27,Male,Human Resources,Manager,Doctor,Married,5753,2,2,2,No,10,No
+951,39,Male,Research & Development,Senior Scientist,College,Single,10508,21,1,3,No,13,No
+952,38,Female,Research & Development,Laboratory Technician,College,Divorced,2029,29,3,3,No,23,No
+953,37,Female,Sales,Sales Representative,Doctor,Divorced,2086,13,3,3,Yes,24,No
+954,31,Male,Research & Development,Research Scientist,College,Divorced,5483,3,4,3,No,8,No
+955,44,Male,Sales,Manager,Master,Single,6499,17,2,1,No,8,Yes
+956,38,Male,Research & Development,Laboratory Technician,Master,Divorced,9304,24,3,2,Yes,10,No
+957,22,Female,Research & Development,Laboratory Technician,Master,Single,3893,11,3,3,No,5,No
+958,54,Male,Research & Development,Manager,Bachelor,Married,7031,7,2,3,No,16,No
+959,30,Male,Research & Development,Laboratory Technician,Master,Single,3150,2,4,2,Yes,10,Yes
+960,26,Male,Sales,Sales Executive,Below College,Divorced,9616,14,2,3,Yes,23,Yes
+961,52,Female,Research & Development,Manager,College,Single,3957,18,3,3,No,14,No
+962,53,Male,Research & Development,Manager,Doctor,Single,5236,19,1,1,No,20,No
+963,49,Male,Research & Development,Senior Scientist,Below College,Single,6794,1,4,1,No,20,No
+964,22,Male,Research & Development,Research Scientist,Bachelor,Single,2320,13,1,2,No,18,No
+965,52,Male,Research & Development,Laboratory Technician,College,Single,6554,13,2,3,No,5,No
+966,43,Female,Research & Development,Manager,College,Divorced,7292,31,1,2,No,22,Yes
+967,35,Female,Research & Development,Senior Scientist,Master,Single,8234,14,3,1,No,22,Yes
+968,33,Male,Sales,Sales Executive,Below College,Married,9416,31,4,3,No,14,No
+969,18,Male,Research & Development,Senior Scientist,Below College,Single,9520,27,3,1,No,21,No
+970,55,Male,Research & Development,Manager,College,Divorced,2111,5,1,1,No,9,No
+971,58,Male,Human Resources,HR Executive,Doctor,Divorced,6860,18,2,2,No,13,No
+972,50,Female,Research & Development,Manager,College,Married,2000,16,4,2,No,22,No
+973,43,Male,Sales,Sales Executive,Master,Divorced,5052,11,2,2,No,18,No
+974,46,Male,Sales,Sales Representative,College,Single,4259,12,1,1,No,19,No
+975,55,Male,Research & Development,Senior Scientist,College,Single,4000,33,2,2,No,28,Yes
+976,30,Male,Research & Development,Senior Scientist,Below College,Single,11984,26,3,2,No,9,No
+977,50,Male,Research & Development,Research Scientist,College,Divorced,6180,25,2,1,No,7,No
+978,46,Female,Research & Development,Senior Scientist,Master,Single,7771,19,3,1,Yes,2,No
+979,47,Female,Research & Development,Manager,Bachelor,Divorced,9377,19,3,2,No,23,No
+980,35,Male,Sales,Sales Executive,Bachelor,Married,5082,9,2,2,No,21,No
+981,22,Female,Sales,Sales Executive,Bachelor,Married,6277,19,2,3,No,22,No
+982,41,Female,Research & Development,Senior Scientist,Master,Married,4778,16,3,2,No,15,No
+983,56,Male,Sales,Sales Representative,Bachelor,Married,6444,5,4,1,No,24,No
+984,57,Male,Research & Development,Research Scientist,Master,Married,8153,13,3,3,No,14,Yes
+985,21,Female,Research & Development,Senior Scientist,Below College,Divorced,8432,33,3,3,Yes,22,No
+986,47,Female,Research & Development,Laboratory Technician,College,Divorced,10516,7,3,3,No,16,No
+987,39,Female,Research & Development,Manager,Below College,Single,7248,27,3,3,No,20,No
+988,34,Female,Sales,Sales Executive,Below College,Divorced,8356,25,3,3,No,8,No
+989,21,Male,Sales,Manager,Doctor,Divorced,6025,23,4,2,No,16,No
+990,42,Female,Research & Development,Research Scientist,Master,Divorced,8623,7,3,3,No,16,No
+991,52,Male,Research & Development,Laboratory Technician,Bachelor,Single,7772,13,4,2,Yes,7,Yes
+992,50,Female,Research & Development,Manager,College,Single,9384,14,4,3,No,22,No
+993,37,Male,Research & Development,Laboratory Technician,Below College,Divorced,5495,8,3,2,No,10,No
+994,34,Female,Research & Development,Senior Scientist,Master,Divorced,3841,33,4,1,No,22,No
+995,58,Male,Research & Development,Manager,Bachelor,Married,5192,18,2,3,Yes,25,Yes
+996,23,Male,Sales,Sales Representative,Doctor,Divorced,4667,1,1,3,No,11,Yes
+997,19,Female,Research & Development,Senior Scientist,Below College,Divorced,6045,3,1,2,No,14,No
+998,30,Female,Research & Development,Laboratory Technician,Doctor,Single,6153,28,4,2,No,18,No
+999,38,Female,Research & Development,Senior Scientist,Doctor,Married,2000,27,1,2,Yes,17,Yes
+1000,56,Female,Research & Development,Research Scientist,Master,Divorced,2000,21,3,3,No,15,No
+1001,42,Female,Research & Development,Laboratory Technician,Bachelor,Single,2437,14,3,1,No,7,No
+1002,19,Male,Research & Development,Senior Scientist,College,Single,6707,6,2,3,No,19,Yes
+1003,58,Male,Sales,Sales Executive,College,Single,5848,20,3,3,Yes,18,No
+1004,59,Female,Sales,Manager,Doctor,Single,7426,7,3,3,No,29,No
+1005,25,Male,Human Resources,Manager,College,Married,6763,19,1,1,Yes,23,Yes
+1006,25,Female,Sales,Sales Executive,Doctor,Single,6876,1,1,1,No,13,No
+1007,54,Female,Research & Development,Research Scientist,Bachelor,Divorced,10051,18,1,2,No,25,No
+1008,48,Female,Research & Development,Research Scientist,Bachelor,Divorced,6188,5,1,3,Yes,10,No
+1009,19,Female,Human Resources,Manager,Doctor,Single,7069,29,2,2,No,11,No
+1010,50,Male,Research & Development,Senior Scientist,Below College,Divorced,7945,5,4,3,No,5,No
+1011,47,Female,Research & Development,Laboratory Technician,Bachelor,Married,8308,26,4,2,No,17,No
+1012,32,Male,Research & Development,Senior Scientist,Below College,Married,8803,19,1,1,No,8,No
+1013,31,Female,Sales,Sales Representative,Bachelor,Divorced,6044,34,3,1,No,22,No
+1014,41,Male,Research & Development,Manager,Bachelor,Married,11562,5,2,2,No,9,No
+1015,30,Female,Sales,Manager,Master,Married,6750,23,2,1,No,23,No
+1016,31,Female,Research & Development,Laboratory Technician,Below College,Married,5965,25,2,1,Yes,15,No
+1017,30,Female,Sales,Sales Representative,College,Divorced,7668,13,2,3,No,6,No
+1018,53,Female,Human Resources,HR Executive,Below College,Married,5139,15,4,2,No,14,No
+1019,37,Male,Research & Development,Research Scientist,Below College,Single,4479,3,3,2,No,19,No
+1020,31,Female,Research & Development,Research Scientist,College,Single,5877,27,2,2,No,21,No
+1021,32,Female,Research & Development,Research Scientist,Bachelor,Divorced,3179,28,4,2,No,2,No
+1022,39,Male,Research & Development,Senior Scientist,Bachelor,Single,6432,14,3,2,Yes,21,No
+1023,56,Male,Research & Development,Research Scientist,Doctor,Married,8120,33,2,3,No,24,No
+1024,50,Female,Research & Development,Senior Scientist,Master,Single,6393,33,3,3,No,28,No
+1025,58,Male,Research & Development,Manager,Master,Single,4532,23,4,1,No,26,Yes
+1026,52,Male,Research & Development,Laboratory Technician,Bachelor,Married,4054,29,1,1,No,29,Yes
+1027,21,Male,Research & Development,Laboratory Technician,Master,Divorced,7072,10,1,2,No,24,No
+1028,53,Male,Research & Development,Manager,Doctor,Married,4815,31,2,2,Yes,27,Yes
+1029,58,Male,Research & Development,Laboratory Technician,Below College,Married,6065,12,2,1,No,13,No
+1030,54,Male,Research & Development,Laboratory Technician,Bachelor,Divorced,9846,32,4,3,Yes,14,No
+1031,36,Female,Research & Development,Senior Scientist,Bachelor,Married,2121,27,3,3,No,25,No
+1032,22,Female,Research & Development,Research Scientist,Below College,Divorced,5123,7,2,2,No,18,No
+1033,20,Female,Sales,Sales Executive,Bachelor,Divorced,10691,21,4,3,Yes,17,Yes
+1034,40,Male,Sales,Sales Executive,Master,Single,6660,23,1,1,No,21,No
+1035,42,Female,Sales,Manager,Below College,Divorced,9000,32,1,1,No,12,No
+1036,23,Male,Sales,Manager,Master,Divorced,8271,20,4,2,No,3,No
+1037,38,Female,Research & Development,Laboratory Technician,Doctor,Married,5733,28,4,2,No,17,Yes
+1038,54,Female,Human Resources,HR Executive,Master,Divorced,9161,19,1,1,No,21,No
+1039,36,Female,Sales,Sales Executive,Bachelor,Divorced,6664,26,2,2,Yes,18,Yes
+1040,48,Female,Human Resources,Manager,Doctor,Single,10657,8,4,1,No,13,No
+1041,43,Female,Research & Development,Laboratory Technician,Bachelor,Married,5043,27,2,2,No,1,No
+1042,34,Female,Research & Development,Laboratory Technician,Doctor,Single,4869,16,1,2,Yes,15,Yes
+1043,54,Male,Research & Development,Manager,College,Single,5546,21,4,2,No,2,Yes
+1044,26,Female,Research & Development,Laboratory Technician,Below College,Single,6491,14,4,2,No,14,Yes
+1045,46,Male,Research & Development,Manager,Bachelor,Divorced,6879,27,4,1,No,4,No
+1046,21,Female,Research & Development,Manager,College,Divorced,8236,6,2,1,No,22,Yes
+1047,32,Male,Research & Development,Senior Scientist,Doctor,Married,7489,26,3,1,No,11,No
+1048,33,Female,Research & Development,Senior Scientist,Master,Married,6207,17,2,1,No,25,No
+1049,56,Male,Research & Development,Laboratory Technician,College,Divorced,6479,14,2,2,No,14,No
+1050,31,Female,Sales,Sales Executive,Doctor,Divorced,8930,8,3,2,Yes,9,No
+1051,44,Female,Research & Development,Research Scientist,Doctor,Single,7619,19,4,3,No,6,No
+1052,57,Female,Human Resources,HR Executive,Below College,Single,7311,21,2,2,Yes,13,No
+1053,59,Female,Sales,Sales Representative,College,Divorced,7036,11,4,3,No,25,Yes
+1054,18,Male,Sales,Manager,Doctor,Divorced,6070,33,3,1,Yes,18,No
+1055,42,Female,Sales,Sales Representative,Below College,Divorced,7707,0,2,1,No,10,No
+1056,44,Female,Research & Development,Senior Scientist,Below College,Divorced,6139,32,4,3,No,5,No
+1057,42,Male,Sales,Sales Representative,Bachelor,Single,6310,16,1,1,Yes,20,Yes
+1058,46,Female,Research & Development,Senior Scientist,Bachelor,Married,10343,20,1,2,No,10,No
+1059,34,Female,Research & Development,Research Scientist,College,Single,6471,20,1,2,Yes,21,No
+1060,36,Female,Research & Development,Research Scientist,Below College,Single,2000,5,2,2,No,25,No
+1061,29,Male,Research & Development,Manager,Doctor,Single,5717,33,4,1,No,11,No
+1062,26,Female,Research & Development,Laboratory Technician,Bachelor,Single,2000,9,2,1,No,29,Yes
+1063,59,Male,Research & Development,Research Scientist,College,Married,8973,5,4,3,No,7,No
+1064,33,Female,Sales,Manager,Bachelor,Married,9903,4,3,2,No,3,No
+1065,49,Male,Research & Development,Manager,Doctor,Single,5698,33,4,2,No,20,No
+1066,42,Female,Research & Development,Laboratory Technician,Below College,Divorced,3094,18,2,3,Yes,3,No
+1067,31,Male,Research & Development,Senior Scientist,Doctor,Divorced,9413,0,4,2,No,5,No
+1068,24,Female,Research & Development,Manager,College,Married,6296,13,3,2,No,14,No
+1069,46,Male,Research & Development,Senior Scientist,Doctor,Single,6663,18,4,2,No,17,Yes
+1070,45,Male,Research & Development,Laboratory Technician,Below College,Married,10495,17,1,2,No,18,Yes
+1071,24,Female,Research & Development,Research Scientist,College,Married,4316,34,2,2,No,19,No
+1072,33,Female,Research & Development,Laboratory Technician,Bachelor,Divorced,8572,18,4,1,No,26,No
+1073,41,Female,Sales,Sales Representative,Master,Single,6368,17,3,3,No,24,No
+1074,21,Female,Research & Development,Senior Scientist,Master,Single,2000,22,4,1,No,11,Yes
+1075,25,Male,Research & Development,Senior Scientist,College,Divorced,12658,13,3,2,No,18,Yes
+1076,52,Male,Research & Development,Senior Scientist,College,Single,6227,34,3,1,Yes,3,Yes
+1077,46,Male,Research & Development,Senior Scientist,College,Single,9160,31,1,2,Yes,9,Yes
+1078,19,Male,Research & Development,Research Scientist,Bachelor,Married,7179,34,2,3,No,28,Yes
+1079,45,Male,Research & Development,Senior Scientist,Bachelor,Divorced,5792,9,2,2,No,2,No
+1080,19,Male,Research & Development,Senior Scientist,Bachelor,Married,9131,29,4,2,No,6,No
+1081,34,Female,Sales,Manager,Bachelor,Divorced,5633,13,2,2,No,21,No
+1082,48,Female,Research & Development,Laboratory Technician,Master,Divorced,8316,26,2,1,Yes,6,No
+1083,32,Female,Research & Development,Research Scientist,Below College,Single,7749,14,1,3,No,27,No
+1084,36,Male,Sales,Sales Representative,Bachelor,Divorced,8143,9,3,3,No,3,No
+1085,46,Female,Sales,Sales Representative,College,Single,7875,28,4,2,Yes,23,No
+1086,20,Male,Sales,Sales Executive,Doctor,Married,5596,3,1,3,No,6,No
+1087,56,Male,Research & Development,Research Scientist,Doctor,Married,8620,27,2,2,No,12,No
+1088,59,Female,Research & Development,Manager,Doctor,Single,8120,33,3,1,No,5,No
+1089,50,Female,Research & Development,Senior Scientist,Doctor,Single,9252,9,2,1,No,5,No
+1090,34,Female,Sales,Manager,Doctor,Married,6796,14,1,3,Yes,25,Yes
+1091,44,Male,Research & Development,Laboratory Technician,Doctor,Divorced,6342,14,4,2,No,9,No
+1092,52,Male,Sales,Manager,Below College,Single,7797,22,2,1,No,2,Yes
+1093,24,Male,Research & Development,Research Scientist,Master,Single,2829,14,3,2,No,19,No
+1094,48,Female,Sales,Sales Representative,Bachelor,Divorced,6126,28,3,3,No,10,No
+1095,27,Male,Research & Development,Manager,Master,Divorced,11143,12,4,1,No,13,No
+1096,29,Male,Research & Development,Manager,Doctor,Divorced,2065,20,3,2,No,9,No
+1097,18,Female,Research & Development,Laboratory Technician,College,Divorced,9458,5,3,1,No,26,No
+1098,23,Male,Human Resources,Manager,Master,Single,3588,29,4,2,Yes,17,No
+1099,48,Male,Research & Development,Laboratory Technician,Below College,Single,7754,18,4,3,Yes,15,Yes
+1100,53,Female,Research & Development,Research Scientist,Master,Divorced,4730,31,2,2,No,17,Yes
+1101,32,Male,Research & Development,Senior Scientist,Master,Married,11603,30,3,2,Yes,9,Yes
+1102,53,Male,Research & Development,Research Scientist,College,Divorced,9880,29,2,2,No,26,No
+1103,25,Male,Sales,Sales Executive,Master,Married,10508,4,2,3,No,28,No
+1104,35,Female,Research & Development,Laboratory Technician,Doctor,Divorced,7655,5,3,1,Yes,28,Yes
+1105,51,Male,Sales,Sales Representative,Doctor,Divorced,5814,20,2,2,No,17,No
+1106,23,Female,Sales,Manager,College,Single,6181,7,3,2,Yes,15,No
+1107,56,Male,Sales,Sales Executive,Bachelor,Single,6611,30,4,3,No,3,Yes
+1108,45,Female,Research & Development,Research Scientist,Bachelor,Divorced,3084,12,1,2,No,21,No
+1109,28,Male,Research & Development,Laboratory Technician,Below College,Single,6892,24,4,3,No,5,Yes
+1110,47,Male,Research & Development,Manager,Master,Divorced,8737,26,1,2,No,16,No
+1111,33,Female,Sales,Sales Representative,Bachelor,Single,5074,27,3,3,No,14,No
+1112,55,Male,Research & Development,Senior Scientist,College,Married,6300,19,2,2,No,22,Yes
+1113,57,Male,Research & Development,Laboratory Technician,Bachelor,Married,3780,0,2,2,Yes,2,No
+1114,37,Male,Research & Development,Laboratory Technician,College,Single,6190,7,4,3,No,23,Yes
+1115,57,Female,Research & Development,Senior Scientist,Bachelor,Single,7735,14,3,1,No,8,No
+1116,54,Male,Research & Development,Research Scientist,Below College,Married,9882,33,3,3,Yes,17,No
+1117,18,Female,Sales,Manager,Doctor,Single,6596,25,4,2,Yes,27,No
+1118,29,Female,Research & Development,Senior Scientist,Master,Divorced,2000,19,3,1,Yes,12,Yes
+1119,54,Male,Sales,Sales Representative,College,Single,6266,26,4,3,Yes,7,No
+1120,59,Female,Research & Development,Manager,Master,Divorced,7628,21,3,3,No,6,No
+1121,43,Female,Human Resources,HR Executive,College,Married,6232,27,4,1,Yes,3,No
+1122,19,Male,Sales,Sales Representative,Below College,Married,4729,17,2,3,No,1,No
+1123,48,Male,Sales,Sales Representative,College,Divorced,2624,21,3,3,No,3,No
+1124,56,Female,Research & Development,Senior Scientist,College,Single,8843,5,3,3,No,5,No
+1125,37,Female,Research & Development,Research Scientist,College,Married,2248,6,1,3,No,12,No
+1126,50,Female,Research & Development,Laboratory Technician,Bachelor,Married,4663,1,1,3,No,29,No
+1127,37,Male,Sales,Sales Executive,Doctor,Married,6766,14,3,2,No,22,No
+1128,22,Female,Sales,Manager,Bachelor,Single,7414,23,4,3,No,25,No
+1129,46,Female,Research & Development,Laboratory Technician,Below College,Single,11288,19,4,2,No,13,No
+1130,49,Male,Sales,Sales Executive,Master,Married,4261,30,1,1,Yes,23,No
+1131,20,Female,Research & Development,Manager,Doctor,Single,10877,16,3,2,No,17,No
+1132,28,Female,Research & Development,Laboratory Technician,Master,Divorced,5056,33,4,3,No,13,No
+1133,40,Male,Research & Development,Research Scientist,College,Single,7083,11,2,1,No,18,Yes
+1134,32,Female,Human Resources,HR Executive,College,Married,10136,32,2,1,No,23,Yes
+1135,46,Female,Research & Development,Laboratory Technician,Master,Divorced,4023,22,1,3,Yes,1,Yes
+1136,32,Female,Research & Development,Manager,Below College,Single,5642,9,4,2,No,2,No
+1137,21,Female,Sales,Sales Representative,College,Divorced,10532,25,1,3,No,15,No
+1138,33,Male,Research & Development,Research Scientist,Bachelor,Married,8323,25,1,3,Yes,7,No
+1139,26,Male,Research & Development,Senior Scientist,Doctor,Married,6185,31,3,1,No,19,Yes
+1140,21,Male,Sales,Sales Representative,Doctor,Married,2000,2,1,3,Yes,21,No
+1141,36,Male,Research & Development,Research Scientist,Master,Divorced,6747,13,3,2,Yes,7,No
+1142,31,Male,Research & Development,Laboratory Technician,Doctor,Divorced,8039,23,4,1,No,22,No
+1143,35,Female,Sales,Manager,Below College,Married,8078,15,3,1,No,2,No
+1144,22,Male,Research & Development,Research Scientist,Bachelor,Married,3621,20,3,2,No,10,No
+1145,39,Female,Human Resources,HR Executive,College,Divorced,8696,24,4,3,No,14,Yes
+1146,50,Female,Research & Development,Senior Scientist,Master,Married,5077,7,2,3,Yes,6,Yes
+1147,55,Female,Research & Development,Senior Scientist,Doctor,Married,6926,23,2,3,No,10,No
+1148,27,Male,Sales,Manager,Doctor,Divorced,6412,15,2,1,No,18,Yes
+1149,58,Male,Sales,Manager,Master,Divorced,8056,25,2,3,No,17,No
+1150,30,Male,Sales,Sales Executive,Bachelor,Single,8130,16,4,2,No,22,No
+1151,57,Male,Research & Development,Laboratory Technician,Doctor,Married,6077,29,4,1,No,25,Yes
+1152,56,Female,Research & Development,Research Scientist,Master,Married,7041,15,1,2,No,23,No
+1153,40,Male,Research & Development,Senior Scientist,Bachelor,Married,2686,6,2,2,No,15,No
+1154,35,Female,Research & Development,Senior Scientist,Below College,Married,12678,33,4,3,Yes,14,No
+1155,50,Male,Research & Development,Research Scientist,College,Married,10430,11,2,2,No,3,Yes
+1156,44,Male,Sales,Sales Executive,Bachelor,Married,6772,0,2,3,No,20,No
+1157,38,Male,Research & Development,Laboratory Technician,Master,Single,10238,12,2,3,No,19,No
+1158,18,Female,Research & Development,Senior Scientist,Below College,Single,9696,21,3,2,Yes,7,Yes
+1159,49,Female,Research & Development,Research Scientist,Doctor,Single,8197,15,2,2,No,6,No
+1160,25,Male,Research & Development,Manager,Below College,Divorced,6823,16,2,3,Yes,17,No
+1161,51,Female,Research & Development,Laboratory Technician,Bachelor,Divorced,4648,25,2,3,No,9,No
+1162,54,Female,Research & Development,Senior Scientist,Master,Single,5536,19,4,2,No,13,No
+1163,24,Male,Research & Development,Manager,Bachelor,Single,5671,1,2,1,No,17,Yes
+1164,41,Male,Sales,Sales Representative,Master,Married,7620,28,3,3,Yes,4,No
+1165,56,Female,Human Resources,HR Executive,Master,Divorced,13307,20,3,1,No,6,No
+1166,38,Male,Research & Development,Manager,Doctor,Divorced,8018,25,4,3,Yes,22,Yes
+1167,59,Female,Research & Development,Laboratory Technician,College,Divorced,7981,4,1,2,Yes,25,Yes
+1168,55,Male,Research & Development,Research Scientist,Below College,Divorced,7457,19,3,3,No,25,No
+1169,49,Male,Sales,Manager,College,Divorced,5429,13,4,3,No,24,No
+1170,49,Male,Research & Development,Laboratory Technician,Below College,Divorced,9852,3,4,3,No,21,No
+1171,54,Female,Human Resources,HR Executive,Master,Single,4966,32,3,1,Yes,20,No
+1172,21,Male,Sales,Sales Executive,Bachelor,Single,5350,22,1,1,No,1,No
+1173,41,Male,Research & Development,Research Scientist,Bachelor,Single,2000,12,3,3,No,26,No
+1174,30,Male,Research & Development,Research Scientist,Master,Married,6474,18,3,3,No,22,No
+1175,29,Male,Sales,Sales Representative,Doctor,Divorced,8092,22,1,1,Yes,13,No
+1176,25,Male,Sales,Manager,College,Divorced,5312,24,1,3,No,27,Yes
+1177,48,Female,Research & Development,Laboratory Technician,College,Married,4399,19,3,1,No,13,No
+1178,35,Female,Sales,Sales Representative,Doctor,Divorced,5003,15,2,3,No,3,No
+1179,46,Female,Research & Development,Senior Scientist,College,Divorced,6313,32,4,3,No,24,No
+1180,27,Male,Research & Development,Senior Scientist,Below College,Married,6324,1,3,3,No,19,No
+1181,26,Male,Research & Development,Laboratory Technician,Master,Single,7911,7,3,3,Yes,21,No
+1182,22,Male,Human Resources,HR Executive,Master,Divorced,9154,4,3,1,No,2,Yes
+1183,23,Female,Human Resources,Manager,College,Married,6682,19,3,3,Yes,15,Yes
+1184,59,Female,Sales,Sales Executive,Master,Single,4586,30,3,1,No,22,No
+1185,18,Male,Sales,Sales Executive,Below College,Divorced,5610,13,2,3,No,21,No
+1186,31,Female,Research & Development,Manager,College,Divorced,7420,10,2,3,Yes,1,Yes
+1187,54,Male,Research & Development,Manager,Bachelor,Divorced,4572,6,2,1,No,11,No
+1188,53,Male,Research & Development,Senior Scientist,Bachelor,Single,8171,9,1,3,Yes,18,No
+1189,26,Female,Research & Development,Senior Scientist,Bachelor,Single,3009,34,2,3,No,19,Yes
+1190,35,Female,Research & Development,Manager,Below College,Married,7409,17,1,3,No,7,No
+1191,41,Female,Research & Development,Senior Scientist,College,Single,6198,16,3,1,Yes,18,Yes
+1192,36,Male,Research & Development,Senior Scientist,Doctor,Single,6610,9,1,2,No,6,No
+1193,52,Female,Sales,Manager,Doctor,Divorced,3266,16,4,2,No,21,Yes
+1194,25,Female,Sales,Sales Representative,Bachelor,Divorced,3374,33,4,2,No,21,No
+1195,53,Male,Human Resources,Manager,Below College,Married,6371,26,2,2,No,20,No
+1196,50,Male,Research & Development,Laboratory Technician,College,Divorced,4477,18,1,2,No,4,No
+1197,55,Male,Sales,Sales Executive,Bachelor,Married,4433,9,4,2,No,21,No
+1198,25,Male,Research & Development,Laboratory Technician,Below College,Married,7098,20,3,3,Yes,22,No
+1199,19,Male,Sales,Manager,College,Married,5568,32,3,3,Yes,14,No
+1200,22,Female,Research & Development,Senior Scientist,Below College,Married,3883,25,3,1,No,26,No
+1201,21,Male,Research & Development,Senior Scientist,Bachelor,Single,4686,18,1,1,No,23,No
+1202,23,Male,Research & Development,Manager,Below College,Single,6132,11,4,2,No,5,No
+1203,25,Female,Sales,Sales Representative,Below College,Single,7406,16,3,3,No,2,No
+1204,48,Male,Research & Development,Research Scientist,College,Divorced,5225,8,2,1,Yes,26,No
+1205,55,Female,Sales,Sales Executive,Below College,Married,6329,2,1,3,No,28,Yes
+1206,58,Female,Research & Development,Laboratory Technician,Doctor,Single,2983,24,1,3,No,14,No
+1207,25,Female,Research & Development,Laboratory Technician,College,Divorced,6095,2,1,1,No,13,Yes
+1208,47,Female,Research & Development,Laboratory Technician,Master,Divorced,5949,24,4,1,No,10,No
+1209,29,Male,Research & Development,Research Scientist,Below College,Married,9714,7,2,2,Yes,9,No
+1210,23,Female,Research & Development,Manager,Below College,Divorced,2527,23,1,3,No,16,No
+1211,45,Male,Human Resources,Manager,Master,Married,4853,34,1,3,No,29,No
+1212,43,Male,Research & Development,Manager,Below College,Divorced,9364,17,3,3,No,5,No
+1213,55,Male,Research & Development,Manager,Master,Married,5685,31,4,1,No,8,No
+1214,47,Female,Research & Development,Laboratory Technician,Doctor,Divorced,8341,4,3,3,Yes,5,No
+1215,48,Male,Research & Development,Senior Scientist,College,Married,3198,3,4,2,No,23,No
+1216,50,Female,Sales,Manager,College,Married,7464,32,3,3,Yes,24,No
+1217,30,Male,Research & Development,Manager,Doctor,Divorced,9674,32,4,3,No,9,Yes
+1218,50,Male,Research & Development,Manager,Below College,Married,3387,33,3,3,Yes,19,No
+1219,25,Female,Research & Development,Senior Scientist,Bachelor,Single,4469,8,4,3,Yes,1,No
+1220,38,Male,Sales,Manager,Doctor,Divorced,3597,20,4,1,Yes,25,No
+1221,23,Male,Sales,Manager,Doctor,Divorced,8258,14,2,2,No,17,Yes
+1222,37,Female,Research & Development,Senior Scientist,Below College,Married,2065,24,2,1,No,29,No
+1223,31,Female,Research & Development,Research Scientist,Doctor,Single,2000,14,4,3,Yes,5,No
+1224,29,Female,Sales,Manager,Master,Married,8453,33,4,1,No,29,No
+1225,42,Female,Research & Development,Research Scientist,Doctor,Divorced,2371,32,3,2,No,24,No
+1226,27,Male,Sales,Sales Executive,Master,Divorced,11550,14,4,2,No,5,No
+1227,30,Male,Research & Development,Manager,Below College,Married,9578,19,2,3,No,12,No
+1228,53,Female,Research & Development,Senior Scientist,Below College,Divorced,7223,2,1,3,No,27,No
+1229,24,Female,Research & Development,Laboratory Technician,College,Married,3181,11,4,3,No,27,No
+1230,36,Female,Research & Development,Research Scientist,Master,Single,3602,14,2,3,No,7,No
+1231,47,Male,Sales,Manager,College,Divorced,7199,1,3,2,No,22,No
+1232,37,Male,Research & Development,Research Scientist,Doctor,Married,9406,11,4,1,No,22,No
+1233,55,Male,Sales,Manager,Bachelor,Married,6646,10,2,3,No,18,No
+1234,31,Male,Research & Development,Research Scientist,Bachelor,Single,3430,30,1,2,No,23,Yes
+1235,58,Female,Research & Development,Manager,Doctor,Single,8342,29,1,1,Yes,8,No
+1236,22,Female,Sales,Sales Executive,Master,Married,2000,29,2,1,No,5,No
+1237,25,Female,Research & Development,Senior Scientist,Below College,Single,8926,14,2,2,No,5,No
+1238,36,Female,Research & Development,Laboratory Technician,Doctor,Divorced,3354,0,3,3,No,20,No
+1239,32,Female,Sales,Sales Executive,Below College,Divorced,6352,18,4,3,Yes,11,Yes
+1240,43,Male,Research & Development,Manager,Bachelor,Single,6617,8,3,2,Yes,5,Yes
+1241,30,Male,Research & Development,Senior Scientist,Doctor,Divorced,3305,25,2,2,No,7,No
+1242,50,Female,Research & Development,Manager,Bachelor,Divorced,10443,3,4,2,No,19,No
+1243,39,Female,Research & Development,Laboratory Technician,Bachelor,Divorced,8724,28,4,2,No,21,Yes
+1244,43,Male,Research & Development,Senior Scientist,Master,Divorced,9070,8,2,1,No,5,No
+1245,49,Male,Research & Development,Manager,Master,Divorced,4218,30,1,1,No,21,No
+1246,21,Female,Research & Development,Laboratory Technician,Doctor,Married,8253,12,3,1,Yes,18,Yes
+1247,49,Female,Research & Development,Laboratory Technician,Below College,Divorced,5571,30,2,3,No,25,Yes
+1248,51,Male,Research & Development,Senior Scientist,Bachelor,Married,2060,7,1,3,No,20,Yes
+1249,59,Female,Research & Development,Research Scientist,Below College,Divorced,5006,1,4,3,No,14,No
+1250,52,Female,Sales,Sales Representative,Doctor,Married,6776,16,4,2,No,22,No
+1251,39,Female,Sales,Manager,College,Married,11019,8,3,2,Yes,8,No
+1252,33,Male,Sales,Sales Executive,College,Single,7883,9,2,2,No,11,Yes
+1253,45,Female,Research & Development,Manager,College,Divorced,3919,16,3,3,Yes,12,No
+1254,58,Male,Sales,Sales Executive,Master,Single,6844,30,3,1,No,18,No
+1255,28,Female,Research & Development,Senior Scientist,Bachelor,Divorced,3738,18,2,3,Yes,24,No
+1256,41,Male,Sales,Manager,Doctor,Single,7583,16,2,2,No,8,No
+1257,32,Male,Sales,Sales Executive,Below College,Divorced,7632,4,1,1,No,14,No
+1258,46,Female,Sales,Sales Executive,Bachelor,Single,7735,28,1,1,No,20,No
+1259,24,Male,Research & Development,Research Scientist,College,Divorced,8425,28,2,2,No,29,No
+1260,47,Male,Sales,Sales Executive,Doctor,Married,10265,20,4,3,Yes,21,No
+1261,31,Male,Research & Development,Manager,Bachelor,Married,3061,5,1,2,No,1,Yes
+1262,44,Male,Research & Development,Research Scientist,Master,Divorced,4165,24,1,1,No,5,No
+1263,41,Male,Sales,Manager,Bachelor,Married,10616,22,3,1,No,3,Yes
+1264,23,Male,Research & Development,Manager,College,Married,6054,31,3,1,No,12,No
+1265,39,Female,Sales,Sales Representative,Master,Married,4366,18,2,1,No,12,No
+1266,35,Male,Sales,Sales Representative,Bachelor,Single,7036,9,1,3,No,4,Yes
+1267,18,Male,Research & Development,Research Scientist,Doctor,Divorced,6585,32,3,3,No,17,No
+1268,55,Male,Research & Development,Manager,Bachelor,Married,4363,26,1,3,No,29,No
+1269,44,Female,Research & Development,Manager,Master,Single,7090,30,3,3,No,9,No
+1270,48,Male,Sales,Manager,Below College,Single,10841,14,2,2,No,8,No
+1271,26,Female,Research & Development,Senior Scientist,Below College,Married,5603,1,4,2,No,11,No
+1272,55,Female,Research & Development,Senior Scientist,Master,Divorced,6005,0,4,3,No,10,No
+1273,32,Female,Sales,Sales Representative,Below College,Divorced,10136,25,4,2,No,16,No
+1274,26,Female,Human Resources,Manager,College,Divorced,11201,26,4,3,No,6,No
+1275,22,Female,Research & Development,Research Scientist,Doctor,Married,8083,18,4,3,No,24,No
+1276,48,Female,Research & Development,Manager,College,Divorced,2983,27,2,3,No,12,Yes
+1277,29,Male,Sales,Sales Executive,Below College,Married,5868,33,4,1,No,27,No
+1278,24,Female,Sales,Sales Executive,Below College,Married,6024,22,4,2,No,16,No
+1279,35,Female,Sales,Sales Executive,College,Divorced,10192,0,1,2,No,16,No
+1280,18,Male,Human Resources,Manager,Below College,Divorced,11371,29,3,2,Yes,23,Yes
+1281,32,Female,Research & Development,Research Scientist,Master,Married,6464,34,2,2,No,14,Yes
+1282,36,Female,Research & Development,Laboratory Technician,College,Single,6008,31,1,3,No,3,No
+1283,39,Female,Research & Development,Laboratory Technician,Bachelor,Divorced,4375,2,4,2,Yes,21,No
+1284,39,Male,Research & Development,Manager,Master,Single,8258,30,2,2,No,14,No
+1285,35,Female,Sales,Manager,College,Married,7335,0,4,2,No,9,Yes
+1286,54,Female,Research & Development,Senior Scientist,College,Divorced,4699,32,4,3,No,9,No
+1287,29,Male,Research & Development,Research Scientist,Below College,Divorced,5846,25,1,3,No,3,No
+1288,56,Male,Sales,Manager,Master,Single,7124,25,3,1,Yes,9,No
+1289,23,Male,Research & Development,Manager,Master,Single,7054,23,2,2,No,15,No
+1290,25,Female,Research & Development,Laboratory Technician,Master,Married,2167,18,2,2,No,16,No
+1291,46,Female,Research & Development,Laboratory Technician,Below College,Divorced,5180,12,3,3,No,24,No
+1292,20,Male,Sales,Sales Executive,Master,Married,3681,1,4,2,No,17,No
+1293,55,Male,Research & Development,Manager,Bachelor,Divorced,6175,23,1,2,No,9,Yes
+1294,52,Male,Research & Development,Manager,College,Divorced,5551,1,3,1,No,7,Yes
+1295,40,Female,Research & Development,Senior Scientist,Doctor,Married,9368,33,2,1,No,22,No
+1296,25,Male,Research & Development,Manager,Doctor,Single,2000,5,3,2,No,20,No
+1297,40,Female,Research & Development,Research Scientist,Below College,Divorced,5063,16,3,2,Yes,18,No
+1298,32,Female,Research & Development,Laboratory Technician,Below College,Married,8777,6,3,2,No,13,No
+1299,45,Female,Research & Development,Laboratory Technician,Doctor,Married,2000,23,1,2,No,22,No
+1300,22,Female,Research & Development,Research Scientist,Below College,Single,9541,25,1,1,No,22,Yes
+1301,31,Male,Research & Development,Laboratory Technician,Bachelor,Divorced,4929,5,1,1,No,15,No
+1302,34,Male,Research & Development,Research Scientist,Doctor,Single,5999,0,3,2,Yes,19,No
+1303,31,Male,Research & Development,Manager,Master,Married,7805,11,2,2,No,27,No
+1304,32,Male,Research & Development,Laboratory Technician,Master,Single,5426,7,2,2,No,9,No
+1305,59,Female,Sales,Manager,College,Divorced,7293,1,2,1,Yes,2,No
+1306,53,Female,Sales,Sales Executive,Master,Divorced,9191,8,1,3,Yes,17,No
+1307,33,Male,Research & Development,Manager,Bachelor,Divorced,5425,31,3,3,No,22,No
+1308,48,Female,Sales,Sales Representative,Below College,Married,10694,18,3,2,No,6,No
+1309,27,Female,Sales,Sales Executive,Master,Married,4080,23,3,2,No,11,No
+1310,46,Female,Research & Development,Research Scientist,Bachelor,Single,5220,12,1,2,No,20,No
+1311,30,Female,Human Resources,Manager,Bachelor,Single,6980,2,4,3,Yes,26,No
+1312,33,Female,Research & Development,Manager,Doctor,Married,2575,24,4,2,No,29,Yes
+1313,19,Male,Sales,Sales Representative,Bachelor,Married,2000,20,4,1,No,26,Yes
+1314,35,Female,Sales,Manager,Below College,Married,6817,10,1,2,No,4,No
+1315,58,Male,Research & Development,Manager,College,Married,11374,18,4,2,No,13,No
+1316,46,Male,Research & Development,Senior Scientist,College,Married,5395,4,2,3,No,8,No
+1317,57,Male,Research & Development,Laboratory Technician,Doctor,Divorced,4178,17,2,2,No,27,No
+1318,32,Male,Research & Development,Manager,Master,Single,4927,6,2,3,No,27,No
+1319,19,Female,Research & Development,Laboratory Technician,Master,Single,9686,28,2,2,Yes,18,No
+1320,34,Male,Sales,Sales Executive,College,Married,8539,28,3,1,No,2,Yes
+1321,34,Male,Research & Development,Laboratory Technician,Doctor,Married,3717,33,3,3,No,1,No
+1322,27,Male,Research & Development,Research Scientist,College,Divorced,7582,9,4,3,Yes,28,No
+1323,51,Male,Research & Development,Laboratory Technician,Below College,Divorced,5786,20,2,2,No,1,Yes
+1324,22,Female,Research & Development,Laboratory Technician,Below College,Divorced,8439,12,4,1,No,4,No
+1325,30,Female,Research & Development,Laboratory Technician,College,Married,4360,21,4,1,No,8,No
+1326,44,Female,Research & Development,Research Scientist,College,Married,3535,29,2,1,No,18,No
+1327,49,Female,Research & Development,Laboratory Technician,Doctor,Married,9525,31,3,3,No,13,No
+1328,28,Female,Research & Development,Manager,Master,Single,7195,7,3,3,Yes,3,No
+1329,34,Female,Research & Development,Senior Scientist,College,Single,7141,10,1,3,Yes,7,No
+1330,42,Female,Research & Development,Research Scientist,Master,Married,2000,5,2,3,No,16,No
+1331,18,Female,Research & Development,Manager,Bachelor,Married,8213,6,1,1,No,6,Yes
+1332,20,Female,Research & Development,Senior Scientist,Below College,Divorced,6490,3,4,2,No,2,No
+1333,56,Female,Research & Development,Laboratory Technician,College,Divorced,5373,22,2,1,No,2,No
+1334,21,Male,Human Resources,Manager,Bachelor,Married,5482,9,1,1,No,19,No
+1335,29,Female,Sales,Manager,Doctor,Single,2343,29,1,1,No,15,No
+1336,23,Female,Sales,Sales Representative,College,Divorced,2757,0,1,2,No,20,No
+1337,20,Female,Research & Development,Manager,Doctor,Single,9109,21,1,3,No,28,No
+1338,37,Male,Sales,Sales Representative,Doctor,Married,8832,21,1,2,No,23,No
+1339,28,Female,Sales,Sales Representative,College,Divorced,2726,15,3,3,No,8,No
+1340,41,Male,Human Resources,Manager,College,Married,8475,13,2,2,Yes,2,No
+1341,40,Female,Sales,Manager,Master,Divorced,8444,22,1,1,Yes,6,No
+1342,27,Male,Sales,Manager,Doctor,Married,6139,0,4,1,No,19,Yes
+1343,38,Male,Sales,Manager,College,Divorced,10337,20,4,1,No,20,No
+1344,56,Male,Research & Development,Senior Scientist,Below College,Divorced,2000,21,2,3,No,26,No
+1345,25,Female,Sales,Manager,Below College,Divorced,6745,15,2,3,No,5,No
+1346,32,Male,Sales,Sales Representative,Master,Married,8781,1,4,3,No,14,No
+1347,27,Male,Sales,Sales Executive,Doctor,Single,11848,28,2,3,Yes,11,Yes
+1348,59,Female,Sales,Sales Representative,College,Divorced,10889,33,2,3,Yes,5,No
+1349,26,Male,Sales,Manager,Below College,Married,6636,27,1,2,No,26,No
+1350,36,Male,Research & Development,Laboratory Technician,College,Single,7603,4,2,3,No,24,No
+1351,32,Male,Sales,Sales Representative,Below College,Single,4899,33,3,3,No,17,No
+1352,22,Female,Research & Development,Manager,Below College,Divorced,7770,5,3,3,Yes,15,Yes
+1353,47,Female,Human Resources,Manager,Bachelor,Married,5708,8,1,3,Yes,8,Yes
+1354,35,Female,Research & Development,Manager,College,Single,8152,31,1,1,Yes,4,No
+1355,33,Female,Research & Development,Research Scientist,Below College,Single,7111,34,1,2,Yes,22,No
+1356,41,Female,Research & Development,Laboratory Technician,Bachelor,Married,6256,22,1,3,No,1,No
+1357,30,Female,Research & Development,Laboratory Technician,Master,Divorced,5988,0,3,2,Yes,18,No
+1358,56,Male,Research & Development,Senior Scientist,Doctor,Single,5533,22,1,1,Yes,25,No
+1359,57,Female,Research & Development,Research Scientist,Doctor,Divorced,8130,2,4,1,No,18,No
+1360,34,Female,Sales,Manager,Bachelor,Divorced,2000,23,2,2,No,16,No
+1361,54,Male,Research & Development,Research Scientist,Below College,Single,3819,24,4,1,No,16,No
+1362,31,Female,Sales,Sales Representative,College,Married,8580,34,1,1,Yes,15,No
+1363,31,Male,Research & Development,Manager,Doctor,Divorced,2110,2,2,3,Yes,16,Yes
+1364,27,Male,Research & Development,Senior Scientist,Doctor,Married,7039,31,2,1,No,16,No
+1365,19,Female,Research & Development,Senior Scientist,Bachelor,Married,13454,0,2,3,No,25,No
+1366,29,Male,Sales,Manager,Below College,Married,8488,31,3,3,No,5,No
+1367,24,Male,Research & Development,Senior Scientist,Bachelor,Married,10810,32,4,1,No,2,No
+1368,22,Male,Research & Development,Manager,Doctor,Married,2717,12,1,1,Yes,27,No
+1369,57,Male,Research & Development,Laboratory Technician,Doctor,Single,7444,0,3,2,Yes,8,No
+1370,23,Female,Research & Development,Senior Scientist,Doctor,Married,11799,16,2,1,Yes,14,Yes
+1371,44,Male,Sales,Sales Representative,Master,Married,2988,17,3,1,Yes,27,No
+1372,43,Female,Research & Development,Research Scientist,Bachelor,Married,4513,24,4,3,No,19,No
+1373,52,Male,Research & Development,Research Scientist,Doctor,Married,8062,20,1,3,Yes,11,Yes
+1374,27,Female,Research & Development,Research Scientist,Doctor,Divorced,8512,27,3,2,Yes,23,No
+1375,58,Male,Sales,Sales Representative,College,Divorced,9314,15,1,2,No,5,No
+1376,47,Male,Sales,Sales Executive,College,Married,2665,12,4,3,No,7,Yes
+1377,44,Female,Research & Development,Manager,Below College,Single,5522,18,1,1,No,10,No
+1378,42,Female,Research & Development,Senior Scientist,Master,Single,6994,9,4,3,No,27,No
+1379,39,Female,Sales,Manager,Master,Married,4991,21,3,1,Yes,14,Yes
+1380,25,Female,Sales,Sales Executive,College,Divorced,7933,24,3,3,No,8,Yes
+1381,45,Female,Sales,Manager,Bachelor,Divorced,8854,3,1,2,No,10,No
+1382,20,Male,Research & Development,Laboratory Technician,College,Divorced,5597,32,2,3,No,13,No
+1383,59,Male,Human Resources,HR Executive,Doctor,Married,4680,22,2,3,Yes,24,No
+1384,22,Male,Research & Development,Laboratory Technician,Doctor,Divorced,5750,27,2,1,No,14,Yes
+1385,59,Male,Sales,Sales Executive,Doctor,Single,4514,8,4,1,No,10,Yes
+1386,46,Female,Research & Development,Laboratory Technician,Below College,Married,2092,8,2,3,No,13,Yes
+1387,25,Male,Research & Development,Research Scientist,Doctor,Single,3022,21,1,2,No,25,No
+1388,36,Female,Human Resources,Manager,Doctor,Divorced,7063,23,3,1,No,1,No
+1389,19,Male,Research & Development,Senior Scientist,Doctor,Married,5046,8,3,3,No,8,No
+1390,47,Female,Sales,Manager,College,Married,9115,28,1,1,Yes,1,Yes
+1391,56,Female,Research & Development,Research Scientist,Master,Married,7718,7,1,1,No,14,No
+1392,27,Male,Research & Development,Senior Scientist,Master,Married,10760,22,1,2,Yes,11,Yes
+1393,45,Male,Research & Development,Manager,Master,Married,6114,10,1,2,Yes,11,Yes
+1394,53,Male,Research & Development,Manager,Master,Divorced,6724,25,1,1,Yes,13,Yes
+1395,31,Female,Sales,Sales Executive,Below College,Married,3903,15,2,2,No,4,No
+1396,43,Male,Research & Development,Laboratory Technician,Bachelor,Single,9281,10,2,2,No,11,No
+1397,48,Male,Sales,Sales Executive,Below College,Divorced,3535,3,2,3,No,15,No
+1398,38,Female,Research & Development,Manager,Bachelor,Single,5688,17,1,2,No,11,Yes
+1399,22,Female,Research & Development,Senior Scientist,Master,Divorced,9008,25,3,1,No,21,Yes
+1400,57,Female,Sales,Manager,Below College,Married,7871,9,2,3,No,3,No
+1401,49,Male,Research & Development,Senior Scientist,Below College,Married,9913,34,3,3,No,4,No
+1402,41,Male,Research & Development,Research Scientist,Below College,Married,6383,21,3,3,No,12,No
+1403,30,Male,Sales,Manager,College,Divorced,6650,2,3,1,No,24,No
+1404,52,Female,Human Resources,HR Executive,Bachelor,Divorced,8921,18,3,2,Yes,9,No
+1405,58,Male,Research & Development,Research Scientist,Bachelor,Single,6689,6,4,3,No,6,No
+1406,21,Female,Research & Development,Manager,Doctor,Divorced,2077,6,2,1,No,3,No
+1407,29,Male,Research & Development,Senior Scientist,Master,Married,6171,22,4,3,No,17,No
+1408,24,Male,Sales,Manager,Doctor,Divorced,4490,16,4,2,No,22,No
+1409,50,Female,Research & Development,Research Scientist,Bachelor,Divorced,10092,16,4,3,Yes,9,No
+1410,32,Male,Research & Development,Senior Scientist,Doctor,Divorced,6367,8,4,3,No,22,No
+1411,31,Female,Research & Development,Research Scientist,Bachelor,Married,11234,26,3,2,Yes,18,Yes
+1412,33,Female,Research & Development,Research Scientist,Bachelor,Married,7313,9,3,1,No,9,No
+1413,49,Female,Research & Development,Laboratory Technician,Bachelor,Married,9443,29,2,1,No,24,Yes
+1414,44,Female,Research & Development,Laboratory Technician,Doctor,Divorced,11085,0,3,3,No,23,No
+1415,32,Female,Sales,Sales Representative,Master,Divorced,5882,15,3,2,No,22,Yes
+1416,52,Male,Sales,Sales Executive,College,Single,3675,18,3,1,No,16,No
+1417,49,Male,Research & Development,Manager,Bachelor,Divorced,7451,29,2,1,No,11,No
+1418,36,Male,Research & Development,Laboratory Technician,Doctor,Divorced,8226,23,4,1,No,9,No
+1419,57,Male,Research & Development,Laboratory Technician,Master,Divorced,6993,3,1,1,No,17,No
+1420,35,Female,Sales,Manager,Below College,Divorced,6607,27,2,3,No,12,Yes
+1421,33,Male,Research & Development,Research Scientist,Bachelor,Single,8712,24,2,3,No,14,No
+1422,55,Female,Sales,Sales Executive,Doctor,Married,11625,11,3,3,No,9,No
+1423,42,Female,Research & Development,Manager,College,Divorced,3725,2,4,2,No,7,No
+1424,38,Male,Sales,Sales Executive,Bachelor,Divorced,5908,30,4,1,No,5,Yes
+1425,39,Female,Research & Development,Research Scientist,College,Single,8012,21,2,1,No,24,Yes
+1426,20,Female,Research & Development,Laboratory Technician,Doctor,Married,5799,1,3,1,Yes,21,Yes
+1427,40,Male,Research & Development,Laboratory Technician,Doctor,Divorced,7122,24,2,1,No,14,No
+1428,36,Male,Sales,Sales Representative,Below College,Single,7680,4,1,2,No,4,No
+1429,35,Female,Research & Development,Manager,Doctor,Divorced,6289,7,1,2,No,8,No
+1430,28,Female,Research & Development,Research Scientist,Below College,Married,6071,1,4,2,Yes,11,No
+1431,38,Female,Human Resources,Manager,Doctor,Divorced,5106,12,2,1,No,28,No
+1432,38,Male,Research & Development,Senior Scientist,Below College,Married,2000,32,3,1,No,9,Yes
+1433,54,Male,Research & Development,Research Scientist,College,Divorced,12603,5,4,3,No,1,No
+1434,27,Female,Research & Development,Senior Scientist,College,Married,8023,22,2,1,No,24,Yes
+1435,47,Female,Research & Development,Research Scientist,College,Married,5338,15,4,1,No,28,No
+1436,49,Male,Sales,Manager,Doctor,Divorced,10059,17,2,1,Yes,14,No
+1437,53,Male,Research & Development,Laboratory Technician,Bachelor,Married,7377,3,3,1,No,23,No
+1438,37,Female,Research & Development,Senior Scientist,Bachelor,Single,3422,0,1,2,Yes,1,Yes
+1439,34,Male,Sales,Manager,College,Married,9626,26,2,1,No,29,No
+1440,30,Female,Research & Development,Manager,Bachelor,Single,6367,1,1,2,No,27,No
+1441,45,Male,Sales,Sales Representative,Doctor,Single,3454,22,2,2,No,14,No
+1442,51,Male,Sales,Manager,College,Married,7490,7,1,1,No,13,No
+1443,33,Male,Research & Development,Senior Scientist,Below College,Married,8345,13,4,3,No,12,No
+1444,18,Male,Research & Development,Research Scientist,Master,Single,5789,5,2,2,Yes,1,No
+1445,19,Female,Research & Development,Manager,College,Single,5160,15,1,2,No,20,No
+1446,28,Female,Research & Development,Laboratory Technician,College,Single,7686,10,4,2,No,7,No
+1447,19,Male,Sales,Manager,Bachelor,Married,7805,2,3,3,No,14,No
+1448,49,Female,Research & Development,Laboratory Technician,College,Married,5185,13,1,2,No,1,No
+1449,28,Female,Research & Development,Research Scientist,Master,Divorced,6736,10,4,1,No,24,Yes
+1450,28,Female,Research & Development,Senior Scientist,Doctor,Divorced,7312,28,4,2,No,25,No
+1451,42,Female,Research & Development,Laboratory Technician,College,Divorced,7648,4,4,3,Yes,6,No
+1452,33,Male,Research & Development,Research Scientist,College,Married,11400,3,4,3,No,21,No
+1453,57,Female,Human Resources,Manager,Bachelor,Single,6813,14,4,2,Yes,29,No
+1454,30,Male,Research & Development,Manager,Below College,Single,2971,26,4,2,No,7,No
+1455,19,Female,Research & Development,Manager,Master,Divorced,8187,6,4,2,No,25,No
+1456,21,Male,Sales,Manager,College,Divorced,6641,32,1,3,No,12,No
+1457,22,Male,Research & Development,Laboratory Technician,Bachelor,Single,9899,22,2,3,No,21,No
+1458,40,Male,Sales,Manager,Below College,Single,2914,5,3,1,No,28,Yes
+1459,24,Male,Research & Development,Laboratory Technician,Doctor,Married,7319,33,4,1,No,28,No
+1460,45,Female,Research & Development,Senior Scientist,Master,Single,2000,11,4,1,Yes,4,Yes
+1461,43,Female,Research & Development,Senior Scientist,Below College,Single,6287,6,3,1,No,11,No
+1462,20,Female,Research & Development,Laboratory Technician,Below College,Divorced,8364,4,2,1,No,13,No
+1463,38,Male,Sales,Manager,Bachelor,Married,3566,27,3,1,No,22,No
+1464,35,Male,Sales,Sales Representative,Master,Married,7972,6,2,3,No,23,Yes
+1465,45,Male,Research & Development,Research Scientist,Below College,Divorced,5674,9,2,1,No,25,Yes
+1466,43,Male,Sales,Manager,College,Divorced,9568,31,4,3,Yes,9,No
+1467,49,Male,Sales,Sales Executive,Master,Married,10154,23,2,1,No,1,Yes
+1468,51,Female,Research & Development,Laboratory Technician,Below College,Married,2097,29,1,2,Yes,15,Yes
+1469,51,Female,Research & Development,Manager,Below College,Single,3455,12,4,2,No,5,Yes
+1470,27,Female,Sales,Sales Executive,Master,Divorced,9431,21,1,1,No,14,No
